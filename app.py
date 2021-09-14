@@ -2,18 +2,17 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
+from dash.exceptions import PreventUpdate
+import plotly.graph_objects as go
+
 from scipy.stats import zscore
 import umap
-
-from dash.exceptions import PreventUpdate
-
-import plotly.graph_objects as go
 
 import pandas as pd
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
-app = dash.Dash(__name__, external_stylesheets=external_stylesheets, suppress_callback_exceptions=True,
-                title='Scatter Plot')
+app = dash.Dash(__name__, external_stylesheets=external_stylesheets,
+                suppress_callback_exceptions=True, title='Scatter Plot')
 
 app.layout= html.Div(
     children= [
@@ -87,7 +86,6 @@ def umap_plot(n_neighbors, min_dist):
                 marker = {
                     'size': 15,
                     'opacity': 0.5,
-                    'line': {'width': 0.5, 'color': 'white'},
                     'color': palette[i]
                 }
             )
@@ -114,4 +112,4 @@ def umap_plot(n_neighbors, min_dist):
 
 
 if __name__=='__main__':
-    app.run_server(debug=True, host='localhost')
+    app.run_server(debug=True)
