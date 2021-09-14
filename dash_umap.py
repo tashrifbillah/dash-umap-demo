@@ -23,9 +23,13 @@ app.layout= html.Div(
         html.Br(),
 
         'n_neighbors: ',
-        dcc.Input(
-            id="neighbors", type="number", value=15,
-            debounce=True, min=2, max=200, step=1
+        html.Div(
+            dcc.Slider(
+                id="neighbors", value=15,
+                marks={i: str(i) for i in range(0,201,20)},
+                min=2, max=200, step=1
+            ),
+            style={'width':'700px'}
         ),
 
         ' ',
@@ -39,6 +43,7 @@ app.layout= html.Div(
         html.Br(),
         dcc.Graph(id='umap-plot'),
     ],
+    style={'margin':'30px'}
 )
 
 
@@ -65,7 +70,7 @@ def umap_plot(n_neighbors, min_dist):
     P = umap.UMAP(n_neighbors=n_neighbors, min_dist=min_dist).fit_transform(props)
 
     groups= data.groupby(['Class']).groups
-    palette=['blue','orange']
+    palette=['red','blue']
     plotdata= []
 
     for i,fclass in enumerate(groups.keys()):
