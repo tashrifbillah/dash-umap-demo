@@ -1,0 +1,891 @@
+Kingdom,Phylum,Class,Order,Family,Genus,Species,Common name,Female maturity (days),Male maturity (days),Gestation/Incubation (days),Litter/Clutch size,Litters/Clutches per year,log10 Birth weight (g),log10 Adult weight (g),Maximum longevity (yrs)
+Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Accipiter,cooperii,Cooper's hawk,730.0,730.0,24.0,4.0,1.0,1.4471580313422192,2.7215138420840224,20.3
+Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Aquila,chrysaetos,Golden eagle,1460.0,1460.0,40.0,2.0,1.0,2.0437551269686796,3.681241237375587,48.0
+Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,jamaicensis,Red-tailed hawk,730.0,730.0,31.0,3.0,1.0,1.760422483423212,3.1341771075767664,30.7
+Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,lagopus,Rough-legged hawk,730.0,730.0,29.0,5.0,1.0,1.619302075875608,2.991509604008035,18.8
+Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,lineatus,Red-shouldered hawk,365.0,365.0,33.0,3.5,1.0,1.5440680443502757,2.7831886910752575,22.4
+Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,platypterus,Broad-winged hawk,365.0,365.0,25.0,2.5,1.0,1.4471580313422192,2.6570558528571038,18.3
+Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,regalis,Ferruginous hawk,730.0,730.0,32.0,3.0,1.0,1.7126497016272113,3.1760912590556813,23.7
+Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,swainsoni,Swainson's hawk,730.0,730.0,31.0,3.0,1.0,1.5954962218255742,2.991509604008035,24.9
+Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Circus,cyaneus,Northern harrier,365.0,365.0,31.0,4.4,1.0,1.376576957056512,2.593286067020457,17.1
+Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Ictinia,mississippiensis,Mississippi kite,365.0,365.0,31.0,2.0,1.0,1.2304489213782739,2.424881636631067,11.2
+Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Rostrhamus,sociabilis,Snail kite,365.0,365.0,30.0,3.0,2.0,1.4668676203541096,2.5471591213274176,17.0
+Animalia,Chordata,Aves,Accipitriformes,Cathartidae,Cathartes,aura,Turkey vulture,4015.0,4015.0,39.0,2.0,1.0,1.7781512503836436,3.342422680822206,20.8
+Animalia,Chordata,Aves,Accipitriformes,Cathartidae,Coragyps,atratus,Black vulture,2920.0,2920.0,35.0,2.0,1.0,1.845098040014257,3.3560258571931225,25.5
+Animalia,Chordata,Aves,Accipitriformes,Cathartidae,Gymnogyps,californianus,California condor,2190.0,2190.0,57.0,1.0,2.0,2.2678754193188975,4.048247531803974,45.0
+Animalia,Chordata,Aves,Accipitriformes,Pandionidae,Pandion,haliaetus,Osprey,1095.0,1095.0,38.0,3.0,1.0,1.7015679850559273,3.1341771075767664,32.0
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Aix,sponsa,Wood duck,365.0,365.0,31.0,12.0,2.0,1.3747483460101038,2.6559064181802152,22.5
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,acuta,Northern pintail,240.0,240.0,22.0,7.5,1.0,1.414973347970818,2.857935264719429,27.4
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,americana,American wigeon,365.0,365.0,23.0,9.0,1.0,1.380211241711606,2.8997110945711446,21.3
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,clypeata,Northern shoveler,240.0,240.0,23.0,11.0,1.0,1.3617278360175928,2.787460474518415,22.6
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,crecca,Green-winged teal,180.0,180.0,22.0,10.0,1.0,1.1760912590556813,2.5363058723510337,27.1
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,cyanoptera,Cinnamon teal,365.0,365.0,23.0,10.0,1.5,1.2600713879850747,2.6138418218760693,12.9
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,discors,Blue-winged teal,240.0,240.0,24.0,10.0,1.0,1.2624510897304295,2.6232492903979003,23.2
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,fulvigula,Mottled duck,365.0,365.0,26.0,10.0,1.0,1.5171958979499742,2.9777236052888476,20.0
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,laysanensis,Laysan duck,365.0,365.0,28.0,3.8,1.0,1.414973347970818,2.6989700043360187,12.0
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,platyrhynchos,Mallard,365.0,365.0,26.0,9.0,1.0,1.515873843711679,3.020402720983878,29.1
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,rubripes,American black duck,365.0,365.0,28.0,9.0,1.0,1.505149978319906,2.99943504987633,26.6
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,strepera,Gadwall,240.0,240.0,26.0,10.0,1.0,1.551449997972875,2.8981764834976764,28.0
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Anser,albifrons,Greater white-fronted goose,1095.0,1095.0,27.0,5.0,1.0,1.9556877503135057,3.4282968139828798,47.0
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,affinis,Lesser scaup,365.0,365.0,24.0,10.0,1.0,1.4885507165004443,2.8959747323590648,18.3
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,americana,Redhead,365.0,365.0,26.0,13.0,1.0,1.575187844927661,3.0323366598457353,22.6
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,collaris,Ring-necked duck,365.0,365.0,27.0,9.0,1.0,1.4668676203541096,2.8674674878590514,20.4
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,marila,Greater scaup,365.0,365.0,26.0,9.0,1.0,1.665580991017953,2.967781908075799,22.1
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Aythya,valisineria,Canvasback,240.0,240.0,24.0,9.0,1.0,1.6503075231319364,3.082354451330969,29.5
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Branta,bernicla,Brent goose,730.0,730.0,24.0,4.0,1.0,1.639486489268586,3.0656543935149627,28.8
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Branta,canadensis,Canada goose,730.0,730.0,26.0,5.0,1.0,1.9319661147281726,3.505149978319906,42.0
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Branta,sandvicensis,Hawaiian goose,912.0,730.0,30.0,4.0,1.0,1.958085848521085,3.3324384599156054,42.0
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Bucephala,albeola,Bufflehead,730.0,730.0,30.0,8.0,1.0,1.376576957056512,2.6020599913279625,18.7
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Bucephala,clangula,Common goldeneye,730.0,730.0,30.0,10.0,1.0,1.5809249756756194,2.952240145847329,18.4
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Chen,caerulescens,Snow goose,730.0,730.0,24.0,4.0,1.0,1.9777236052888478,3.4481882578264753,27.5
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Chen,canagica,Emperor goose,365.0,365.0,24.0,4.9,1.0,1.912753303671323,3.332034277027518,12.0
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Chen,rossii,Ross's goose,570.0,570.0,21.0,4.0,1.0,1.8129133566428555,3.2342641243787895,22.5
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Clangula,hyemalis,Oldsquaw,730.0,730.0,24.0,7.0,1.0,1.3979400086720377,2.940516484932567,22.7
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus,buccinator,Trumpeter swan,730.0,730.0,35.0,5.0,1.0,2.342422680822206,4.113943352306837,32.5
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus,columbianus,Tundra swan,730.0,730.0,31.0,4.0,1.0,2.2528530309798933,3.8027737252919755,24.1
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus,olor,Mute swan,1095.0,1095.0,36.0,5.3,1.0,2.3521825181113627,3.9190780923760737,70.0
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Dendrocygna,autumnalis,Black-bellied whistling duck,365.0,365.0,27.0,14.0,1.0,1.4885507165004443,2.9180303367848803,8.2
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Dendrocygna,bicolor,Fulvous whistling duck,365.0,365.0,25.0,13.0,1.0,1.4313637641589874,2.8675264111997434,11.2
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Histrionicus,histrionicus,Harlequin duck,365.0,365.0,28.0,6.0,1.0,1.5171958979499742,2.7491563540113795,14.6
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Lophodytes,cucullatus,Hooded merganser,730.0,730.0,31.0,11.0,1.0,1.4913616938342726,2.8023460595933067,15.7
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Melanitta,fusca,White-winged scoter,730.0,730.0,28.0,11.0,1.0,1.7363965022766426,3.133794300604513,21.4
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Melanitta,nigra,Black scoter,730.0,730.0,29.0,9.0,1.0,1.6354837468149122,3.0220982974611403,16.8
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Mergus,merganser,Common merganser,730.0,730.0,30.0,10.0,1.0,1.6646419755561255,3.1598678470925665,14.8
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Oxyura,jamaicensis,Ruddy duck,365.0,365.0,23.0,8.0,1.0,1.6334684555795864,2.733999286538387,13.6
+Animalia,Chordata,Aves,Anseriformes,Anatidae,Somateria,mollissima,Common eider,730.0,730.0,28.0,4.0,1.0,1.88309335857569,3.3283796034387376,37.8
+Animalia,Chordata,Aves,Apodiformes,Apodidae,Chaetura,pelagica,Chimney swift,365.0,365.0,20.0,4.5,1.0,0.09691001300805642,1.3579348470004537,15.0
+Animalia,Chordata,Aves,Apodiformes,Apodidae,Cypseloides,niger,Black swift,365.0,365.0,24.0,1.0,1.0,0.5185139398778874,1.6532125137753437,16.1
+Animalia,Chordata,Aves,Apodiformes,Trochilidae,Archilochus,colubris,Ruby-throated hummingbird,365.0,365.0,13.0,2.0,2.0,-0.20760831050174613,0.4913616938342727,9.1
+Animalia,Chordata,Aves,Apodiformes,Trochilidae,Selasphorus,platycercus,Broad-tailed hummingbird,365.0,365.0,16.0,2.0,2.0,-0.3979400086720376,0.6232492903979004,14.0
+Animalia,Chordata,Aves,Charadriiformes,Alcidae,Alca,torda,Razorbill,1460.0,1460.0,36.0,1.0,1.0,1.8048206787211623,2.8609366207000937,42.0
+Animalia,Chordata,Aves,Charadriiformes,Alcidae,Cepphus,columba,Pigeon guillemot,1095.0,1095.0,31.0,2.0,1.0,1.640481436970422,2.684665864025861,15.2
+Animalia,Chordata,Aves,Charadriiformes,Alcidae,Cepphus,grylle,Black guillemot,1095.0,1095.0,25.0,2.0,1.0,1.5185139398778875,2.6309361190641916,29.9
+Animalia,Chordata,Aves,Charadriiformes,Alcidae,Cerorhinca,monocerata,Rhinoceros auklet,1095.0,1095.0,45.0,1.0,1.0,1.7363965022766426,2.7356787259059048,28.2
+Animalia,Chordata,Aves,Charadriiformes,Alcidae,Fratercula,arctica,Atlantic puffin,1460.0,1460.0,42.0,1.0,1.0,1.5987905067631152,2.6906390117159673,40.8
+Animalia,Chordata,Aves,Charadriiformes,Alcidae,Synthliboramphus,hypoleucus,Xantus' murrelet,730.0,730.0,34.0,2.0,1.0,1.3944516808262162,2.2227164711475833,15.0
+Animalia,Chordata,Aves,Charadriiformes,Alcidae,Uria,lomvia,Thick-billed murre,1862.0,2081.0,33.0,1.0,1.0,1.8475726591421122,2.984077033902831,29.0
+Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,alexandrinus,Snowy plover,310.0,331.0,24.0,3.0,1.0,0.7781512503836436,1.568201724066995,19.0
+Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,melodus,Piping plover,365.0,365.0,28.0,4.0,1.0,0.829303772831025,1.6901960800285136,14.0
+Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,semipalmatus,Semipalmated plover,912.0,912.0,24.0,4.0,1.0,0.8142475957319202,1.7160033436347992,9.2
+Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,vociferus,Killdeer,365.0,365.0,24.0,4.0,1.0,0.9934362304976118,1.9444826721501687,10.9
+Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Pluvialis,dominica,American golden plover,365.0,365.0,26.0,4.0,1.0,1.290034611362518,2.0718820073061255,13.0
+Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Pluvialis,squatarola,Black-bellied plover,730.0,730.0,27.0,4.0,1.0,1.3304137733491908,2.3502480183341627,25.6
+Animalia,Chordata,Aves,Charadriiformes,Haematopodidae,Haematopus,bachmani,Black oystercatcher,1825.0,1825.0,26.0,2.0,1.0,1.5314789170422551,2.8260748027008264,16.0
+Animalia,Chordata,Aves,Charadriiformes,Haematopodidae,Haematopus,palliatus,American oystercatcher,1095.0,1095.0,27.0,2.0,1.0,1.5717088318086876,2.7520484478194387,17.0
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Anous,minutus,Black noddy,730.0,730.0,34.0,1.0,1.0,1.2253092817258628,2.0429690733931802,27.1
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Anous,stolidus,Noddy tern,1095.0,1460.0,35.0,1.0,1.0,1.3944516808262162,2.250420002308894,26.2
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Chlidonias,niger,Black tern,730.0,730.0,21.0,3.0,1.0,0.8603380065709937,1.7781512503836436,21.0
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Gelochelidon,nilotica,Gull-billed tern,1825.0,1825.0,22.0,3.0,1.0,1.3304137733491908,2.3443922736851106,16.0
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Gygis,alba,Fairy tern,1764.0,1764.0,36.0,1.0,1.0,1.1139433523068367,1.9916690073799486,35.9
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Hydroprogne,caspia,Caspian tern,1095.0,1095.0,21.0,2.0,1.0,1.6857417386022637,2.808885867359812,30.0
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,argentatus,Herring gull,1825.0,1460.0,26.0,3.0,1.0,1.8293037728310249,3.039017321997412,49.0
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,californicus,California gull,1095.0,1095.0,25.0,3.0,1.0,1.6989700043360187,2.8394780473741985,30.0
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,canus,Mew gull,1095.0,730.0,23.0,3.0,1.0,1.6020599913279623,2.6340740254874686,33.7
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,delawarensis,Ring-billed gull,730.0,730.0,21.0,3.0,1.0,1.5599066250361124,2.7147487607250596,31.8
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,hyperboreus,Glaucous gull,1460.0,1460.0,27.0,3.0,1.0,1.8609366207000937,3.0827853703164503,21.1
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,marinus,Great black-backed gull,1825.0,1825.0,27.0,3.0,1.0,1.9294189257142926,3.219715475855501,29.2
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Larus,occidentalis,Western gull,1825.0,1460.0,27.0,3.0,1.0,1.8293037728310249,2.9691828592322613,33.9
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Onychoprion,fuscatus,Sooty tern,1460.0,1460.0,28.0,1.0,1.0,1.3692158574101427,2.1702617153949575,35.8
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Rissa,tridactyla,Black-legged kittiwake,1460.0,1460.0,27.0,2.0,1.0,1.5563025007672873,2.5010592622177517,28.5
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,dougallii,Roseate tern,1095.0,1095.0,23.0,2.0,1.0,1.1702617153949575,2.0492180226701815,25.7
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,forsteri,Forster's tern,730.0,730.0,23.0,3.0,1.0,1.139249217571607,2.1986570869544226,15.8
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,hirundo,Common tern,1095.0,1095.0,24.0,2.5,1.0,0.09691001300805642,2.0791812460476247,33.0
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,paradisaea,Arctic tern,1095.0,1095.0,21.0,2.0,1.0,1.1172712956557642,2.0,34.0
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Sternula,antillarum,Least tern,1095.0,1095.0,21.0,2.0,1.0,0.8450980400142568,1.6020599913279623,24.1
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Thalasseus,elegans,Elegant tern,1095.0,1095.0,26.0,1.0,1.0,1.421603926869831,2.399673721481038,20.9
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Thalasseus,maximus,Royal tern,1095.0,1095.0,28.0,2.0,1.0,1.7481880270062005,2.571708831808688,28.6
+Animalia,Chordata,Aves,Charadriiformes,Laridae,Thalasseus,sandvicensis,Sandwich tern,1095.0,1095.0,22.0,1.0,1.0,1.4471580313422192,2.3979400086720375,30.8
+Animalia,Chordata,Aves,Charadriiformes,Recurvirostridae,Himantopus,mexicanus,Black-necked (Hawaiian) stilt,365.0,365.0,25.0,4.0,1.0,1.1335389083702174,2.2695129442179165,19.1
+Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Actitis,macularius,Spotted sandpiper,365.0,365.0,20.0,4.0,1.0,0.7810369386211319,1.5314789170422551,12.0
+Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Arenaria,interpres,Ruddy turnstone,730.0,730.0,22.0,4.0,1.0,1.0576661039098292,2.1335389083702174,22.3
+Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,alba,Sanderling,730.0,730.0,27.0,4.0,1.5,0.8633228601204559,1.6989700043360187,18.6
+Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,alpina,Dunlin,730.0,730.0,21.0,4.0,1.0,0.9542425094393249,1.7201593034059568,28.8
+Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,maritima,Purple sandpiper,1095.0,1095.0,22.0,4.0,1.0,0.9590413923210935,1.8142475957319202,20.8
+Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,mauri,Western sandpiper,730.0,730.0,21.0,4.0,1.0,0.6989700043360189,1.4181354984252321,9.2
+Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,minutilla,Least sandpiper,365.0,365.0,20.0,4.0,1.0,0.608526033577194,1.414973347970818,16.0
+Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,pusilla,Semipalmated sandpiper,365.0,365.0,20.0,4.0,1.0,0.6434526764861874,1.4313637641589874,19.3
+Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Gallinago,gallinago,Common snipe,365.0,365.0,19.0,4.0,1.0,1.0413926851582251,2.1192558892779365,18.2
+Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Limnodromus,griseus,Short-billed dowitcher,365.0,365.0,21.0,4.0,1.0,1.0718820073061255,2.0211892990699383,13.3
+Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Limosa,fedoa,Marbled godwit,1095.0,1095.0,24.0,4.0,1.0,1.568201724066995,2.526339277389844,13.7
+Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Limosa,lapponica,Bar-tailed godwit,730.0,730.0,21.0,4.0,1.0,1.4471580313422192,2.507855871695831,34.0
+Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Numenius,phaeopus,Whimbrel,730.0,730.0,22.0,4.0,1.0,1.5440680443502757,2.5631249603380444,24.2
+Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Scolopax,minor,American woodcock,300.0,300.0,20.0,4.0,1.0,1.0863598306747482,2.295567099962479,20.9
+Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Tringa,semipalmata,Willet,730.0,730.0,22.0,4.0,1.0,1.4471580313422192,2.4313637641589874,12.6
+Animalia,Chordata,Aves,Charadriiformes,Stercorariidae,Stercorarius,parasiticus,Parasidic jaeger,1200.0,1200.0,26.0,2.0,1.0,1.4548448600085102,2.6488477083728936,31.1
+Animalia,Chordata,Aves,Ciconiiformes,Ciconiidae,Mycteria,americana,Wood stork,1460.0,1460.0,30.0,3.0,1.0,1.792391689498254,3.3979400086720375,27.0
+Animalia,Chordata,Aves,Columbiformes,Columbidae,Columba,livia,Rock dove,140.0,140.0,18.0,2.0,3.0,1.1818435879447726,2.5547313766759667,35.0
+Animalia,Chordata,Aves,Columbiformes,Columbidae,Columbina,passerina,Common ground dove,75.0,75.0,13.0,2.0,2.5,0.6989700043360189,1.5440680443502757,7.2
+Animalia,Chordata,Aves,Columbiformes,Columbidae,Zenaida,asiatica,White-winged dove,365.0,365.0,13.0,2.0,5.0,0.8864907251724818,2.146128035678238,25.0
+Animalia,Chordata,Aves,Columbiformes,Columbidae,Zenaida,macroura,Mourning dove,90.0,80.0,14.0,2.0,5.0,0.6989700043360189,2.0755469613925306,31.3
+Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus,americanus,Yellow-billed cuckoo,365.0,365.0,14.0,3.0,1.0,0.9294189257142927,1.761927838420529,5.0
+Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Coccyzus,erythropthalmus,Black-billed cuckoo,365.0,365.0,14.0,2.5,1.0,0.8692317197309762,1.5740312677277188,5.0
+Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Geococcyx,californianus,Greater roadrunner,365.0,365.0,20.0,4.0,1.5,1.146128035678238,2.575187844927661,9.0
+Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,columbarius,Merlin,365.0,365.0,30.0,5.0,1.0,1.1139433523068367,2.290034611362518,12.7
+Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,mexicanus,Prairie falcon,365.0,365.0,31.0,4.0,1.0,1.4857214264815801,2.9334872878487053,17.2
+Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,peregrinus,Peregrine falcon,365.0,365.0,30.0,3.0,1.0,1.5740312677277188,2.9242792860618816,25.0
+Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,rusticolus,Gyrfalcon,730.0,730.0,35.0,3.72,1.0,1.7166709755601355,3.1481397365012196,13.5
+Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,sparverius,American kestrel,365.0,365.0,29.0,4.6,1.5,0.9542425094393249,2.0681858617461617,17.0
+Animalia,Chordata,Aves,Galliformes,Odontophoridae,Callipepla,californica,California quail,274.0,274.0,22.0,14.0,1.0,0.7781512503836436,2.1398790864012365,9.6
+Animalia,Chordata,Aves,Galliformes,Phasianidae,Bonasa,umbellus,Ruffed grouse,120.0,120.0,24.0,11.0,1.0,1.0791812460476249,2.7259116322950483,11.0
+Animalia,Chordata,Aves,Galliformes,Phasianidae,Centrocercus,urophasianus,Sage grouse,365.0,365.0,26.0,7.0,1.0,1.4842998393467859,3.2854447829074154,7.0
+Animalia,Chordata,Aves,Galliformes,Phasianidae,Dendragapus,obscurus,Blue grouse,365.0,365.0,26.0,8.0,1.0,1.354108439147401,3.0246908623554307,14.0
+Animalia,Chordata,Aves,Galliformes,Phasianidae,Falcipennis,canadensis,Spruce grouse,365.0,365.0,20.0,5.0,1.0,1.1760912590556813,2.620448384711709,13.0
+Animalia,Chordata,Aves,Galliformes,Phasianidae,Lagopus,lagopus,Willow ptarmigan,365.0,365.0,21.0,6.0,1.0,1.1679078100014801,2.7751551649350983,9.0
+Animalia,Chordata,Aves,Galliformes,Phasianidae,Lagopus,leucura,White-tailed ptarmigan,365.0,365.0,23.0,6.0,1.0,1.110589710299249,2.513217600067939,15.0
+Animalia,Chordata,Aves,Galliformes,Phasianidae,Meleagris,gallopavo,Wild turkey,304.0,365.0,28.0,11.0,1.0,1.6720978579357175,3.781755374652469,13.0
+Animalia,Chordata,Aves,Galliformes,Phasianidae,Pavo,cristatus,Indian peafowl,730.0,730.0,29.0,5.0,1.0,2.0791812460476247,3.6232492903979003,23.2
+Animalia,Chordata,Aves,Galliformes,Phasianidae,Perdix,perdix,Grey partridge,365.0,365.0,24.0,16.0,1.0,1.0,2.69196510276736,5.2
+Animalia,Chordata,Aves,Galliformes,Phasianidae,Phasianus,colchicus,Common pheasant,240.0,240.0,24.0,11.0,1.0,1.2671717284030137,3.039334788738086,27.0
+Animalia,Chordata,Aves,Galliformes,Phasianidae,Tympanuchus,cupido,Greater prairie chicken,365.0,183.0,23.0,13.0,1.0,1.0606978403536116,2.958085848521085,5.0
+Animalia,Chordata,Aves,Galliformes,Phasianidae,Tympanuchus,phasianellus,Sharp-tailed grouse,180.0,180.0,23.0,12.0,1.0,1.1072099696478683,2.958085848521085,7.5
+Animalia,Chordata,Aves,Gaviiformes,Gaviidae,Gavia,arctica,Black-throated diver,1095.0,1095.0,29.0,1.74,2.0,1.8593184650971162,3.4352071032407476,28.0
+Animalia,Chordata,Aves,Gaviiformes,Gaviidae,Gavia,immer,Great northern diver,1461.0,1461.0,28.0,2.0,1.0,1.972665592266111,3.532117116248804,24.1
+Animalia,Chordata,Aves,Gaviiformes,Gaviidae,Gavia,stellata,Red-throated diver,1095.0,1095.0,28.0,2.0,1.0,1.7387805584843692,3.2591158441850663,24.0
+Animalia,Chordata,Aves,Gruiformes,Gruidae,Grus,americana,Whooping crane,1460.0,1460.0,31.0,2.0,1.0,2.1760912590556813,3.8750612633917,40.0
+Animalia,Chordata,Aves,Gruiformes,Gruidae,Grus,canadensis,Sandhill crane,1095.0,1095.0,29.0,2.0,1.0,2.0576661039098294,3.5899496013257077,36.6
+Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica,americana,American coot,365.0,365.0,23.0,10.0,2.0,1.3117538610557542,2.653983907374069,22.3
+Animalia,Chordata,Aves,Gruiformes,Rallidae,Gallinula,chloropus,Common moorhen,365.0,365.0,19.0,9.0,2.0,1.0530784434834197,2.593286067020457,18.6
+Animalia,Chordata,Aves,Passeriformes,Alaudidae,Eremophila,alpestris,Horned lark,365.0,365.0,11.0,43.0,1.5,0.437750562820388,1.5250448070368452,8.0
+Animalia,Chordata,Aves,Passeriformes,Bombycillidae,Bombycilla,cedrorum,Cedar waxwing,365.0,365.0,14.0,4.0,2.0,0.4913616938342727,1.4771212547196624,8.2
+Animalia,Chordata,Aves,Passeriformes,Calcariidae,Calcarius,pictus,Smith's longspur,365.0,365.0,12.0,4.0,1.0,0.414973347970818,1.4256972133625911,5.0
+Animalia,Chordata,Aves,Passeriformes,Calcariidae,Plectrophenax,nivalis,Snow bunting,365.0,365.0,12.0,5.0,1.0,0.47712125471966244,1.6211762817750353,9.6
+Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Cardinalis,cardinalis,Northern cardinal,365.0,365.0,12.0,3.0,2.0,0.5440680443502757,1.6294095991027189,28.5
+Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Passerina,amoena,Lazuli bunting,365.0,365.0,12.0,4.0,1.0,0.11394335230683679,1.1804126328383238,9.9
+Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Passerina,ciris,Painted bunting,365.0,365.0,11.0,4.0,2.0,0.3010299956639812,1.1687920203141817,12.0
+Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Passerina,cyanea,Indigo bunting,365.0,365.0,12.0,3.5,1.0,0.3222192947339193,1.1760912590556813,11.0
+Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Pheucticus,ludovicianus,Rose-breasted grosbeak,365.0,365.0,12.0,4.0,1.0,0.6532125137753437,1.6750906226358344,24.0
+Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Pheucticus,melanocephalus,Black-headed grosbeak,365.0,365.0,12.0,3.0,1.0,0.47712125471966244,1.6232492903979006,25.0
+Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Piranga,olivacea,Scarlet tanager,365.0,365.0,13.0,4.0,1.0,0.4727564493172124,1.462397997898956,11.9
+Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Piranga,rubra,Summer tanager,365.0,365.0,12.0,4.0,1.5,0.6232492903979004,1.6020599913279623,7.9
+Animalia,Chordata,Aves,Passeriformes,Corvidae,Aphelocoma,coerulescens,Scrub jay,365.0,365.0,17.0,4.0,1.0,0.6232492903979004,1.8959747323590646,15.0
+Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,brachyrhynchos,American crow,730.0,730.0,18.0,5.0,1.0,1.1931245983544616,2.5852350633657752,20.0
+Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,caurinus,Northwestern crow,730.0,730.0,18.0,4.0,1.0,1.130333768495006,2.4683473304121573,16.7
+Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,corax,Common raven,1095.0,1095.0,19.0,5.0,1.0,1.3979400086720377,3.017534159437198,69.0
+Animalia,Chordata,Aves,Passeriformes,Corvidae,Cyanocitta,cristata,Blue jay,365.0,365.0,17.0,4.0,1.0,0.7403626894942439,1.9074113607745862,26.2
+Animalia,Chordata,Aves,Passeriformes,Corvidae,Gymnorhinus,cyanocephalus,Pinyon jay,365.0,365.0,17.0,4.0,1.0,0.7965743332104297,2.0211892990699383,14.6
+Animalia,Chordata,Aves,Passeriformes,Corvidae,Nucifraga,columbiana,Clark's nutcracker,365.0,365.0,18.0,2.5,1.0,0.8512583487190752,2.113943352306837,17.4
+Animalia,Chordata,Aves,Passeriformes,Corvidae,Perisoreus,canadensis,Gray jay,365.0,365.0,17.0,3.0,1.0,0.7558748556724915,1.8469553250198238,19.2
+Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica,nuttalli,Yellow-billed magpie,365.0,365.0,18.0,6.5,1.0,0.8388490907372553,2.2013971243204513,10.0
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Ammodramus,caudacutus,Saltmarsh sharp-tailed sparrow,365.0,365.0,11.0,4.0,2.0,0.21218760440395779,1.2174839442139063,10.0
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Ammodramus,savannarum,Grasshopper sparrow,365.0,365.0,11.0,4.0,2.0,0.3010299956639812,1.24551266781415,9.1
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Calamospiza,melanocorys,Lark bunting,365.0,365.0,12.0,5.0,1.0,0.5158738437116791,1.513217600067939,4.8
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Junco,hyemalis,Dark-eyed junco,365.0,365.0,11.0,4.0,1.5,0.36172783601759284,1.2787536009528289,11.3
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Junco,phaeonotus,Yellow-eyed junco,365.0,365.0,13.0,2.0,1.5,0.38381536598043126,1.3010299956639813,6.6
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Melospiza,georgiana,Swamp sparrow,365.0,365.0,13.0,4.0,1.5,0.1643528557844371,1.2068258760318498,7.8
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Melospiza,lincolnii,Lincoln's sparrow,365.0,365.0,11.0,4.0,1.0,0.22788670461367352,1.2392994791268925,7.6
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Melospiza,melodia,Song sparrow,365.0,365.0,12.0,4.0,2.5,0.17609125905568124,1.3560258571931227,11.3
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Melozone,aberti,Abert's towhee,365.0,365.0,14.0,3.0,1.5,0.5599066250361125,1.662757831681574,8.6
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Passerculus,sandwichensis,Savannah sparrow,365.0,365.0,12.0,4.0,1.0,0.2304489213782739,1.3053513694466237,18.0
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Peucaea,aestivalis,Bachman's sparrow,365.0,365.0,13.0,4.0,2.0,0.28103336724772754,1.2922560713564761,3.9
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Pipilo,chlorurus,Green-tailed towhee,365.0,365.0,12.0,4.0,1.5,0.5797835966168101,1.4605971888976015,7.7
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Pipilo,erythrophthalmus,Eastern towhee,365.0,365.0,12.0,4.0,1.5,0.4913616938342727,1.5954962218255742,12.3
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Pooecetes,gramineus,Vesper sparrow,365.0,365.0,12.0,4.0,2.0,0.3010299956639812,1.4099331233312946,7.9
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Spizella,breweri,Brewer's sparrow,365.0,365.0,11.0,3.0,1.0,0.12057393120584989,1.0413926851582251,6.2
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Spizella,pallida,Clay-colored sparrow,335.0,335.0,12.0,4.0,1.0,0.07918124604762482,1.0588054866759067,6.9
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Spizella,passerina,Chipping sparrow,365.0,365.0,12.0,4.0,2.0,0.11394335230683679,1.0863598306747482,11.8
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Spizelloides,arborea,American tree sparrow,365.0,365.0,12.0,4.0,1.0,0.2041199826559248,1.2201080880400552,10.8
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Zonotrichia,albicollis,White-throated sparrow,365.0,365.0,13.0,4.0,1.5,0.4471580313422192,1.3242824552976926,14.9
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Zonotrichia,atricapilla,Golden-crowned sparrow,365.0,365.0,12.0,4.0,1.5,0.4913616938342727,1.498999363580153,10.5
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Zonotrichia,leucophrys,White-crowned sparrow,365.0,365.0,12.0,4.0,1.5,0.43136376415898736,1.4119562379304016,13.3
+Animalia,Chordata,Aves,Passeriformes,Emberizidae,Zonotrichia,querula,Harris's sparrow,365.0,365.0,13.0,4.0,1.0,0.4913616938342727,1.5198279937757189,11.7
+Animalia,Chordata,Aves,Passeriformes,Fringillidae,Acanthis,flammea,Common redpoll,365.0,365.0,10.0,5.0,2.0,0.11394335230683679,1.1522883443830565,12.2
+Animalia,Chordata,Aves,Passeriformes,Fringillidae,Acanthis,hornemanni,Hoary redpoll,365.0,365.0,12.0,4.0,1.0,0.11394335230683679,1.2844307338445196,6.8
+Animalia,Chordata,Aves,Passeriformes,Fringillidae,Loxioides,bailleui,Palila,365.0,730.0,16.0,2.0,1.0,0.3010299956639812,1.5780658838360915,13.0
+Animalia,Chordata,Aves,Passeriformes,Fringillidae,Magumma,parva,Anianiau,365.0,365.0,14.0,3.0,1.0,0.07918124604762482,1.0,9.5
+Animalia,Chordata,Aves,Passeriformes,Fringillidae,Palmeria,dolei,Akohekohe or crested honeycreeper,730.0,730.0,17.0,1.5,2.5,0.3283796034387377,1.4183012913197455,9.2
+Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Hirundo,rustica,Barn swallow,365.0,365.0,15.0,6.0,2.0,0.36172783601759284,1.2624510897304295,16.0
+Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Petrochelidon,pyrrhonota,Cliff swallow,365.0,365.0,14.0,4.0,1.0,0.2787536009528289,1.3662361237182932,11.8
+Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Progne,subis,Purple martin,365.0,365.0,15.0,5.0,1.0,0.4471580313422192,1.6532125137753437,13.8
+Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Riparia,riparia,Bank swallow,365.0,365.0,15.0,4.0,1.0,0.2041199826559248,1.1038037209559568,10.0
+Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta,bicolor,Tree swallow,365.0,365.0,14.0,5.0,1.0,0.2041199826559248,1.2787536009528289,12.1
+Animalia,Chordata,Aves,Passeriformes,Icteridae,Agelaius,phoeniceus,Red-winged blackbird,365.0,365.0,12.0,3.5,1.5,0.43933269383026263,1.7535830588929067,20.0
+Animalia,Chordata,Aves,Passeriformes,Icteridae,Euphagus,cyanocephalus,Brewer's blackbird,365.0,365.0,13.0,5.0,1.5,0.568201724066995,1.809896246602439,12.5
+Animalia,Chordata,Aves,Passeriformes,Icteridae,Molothrus,ater,Brown-headed cowbird,365.0,365.0,11.0,1.0,1.0,0.3463529744506387,1.5809249756756194,16.9
+Animalia,Chordata,Aves,Passeriformes,Icteridae,Quiscalus,mexicanus,Great-tailed grackle,365.0,730.0,13.0,3.0,1.5,0.7930916001765802,2.2271150825891253,12.5
+Animalia,Chordata,Aves,Passeriformes,Icteridae,Sturnella,magna,Eastern meadowlark,365.0,365.0,13.0,5.0,1.0,0.6989700043360189,1.9763958366118797,12.6
+Animalia,Chordata,Aves,Passeriformes,Icteridae,Sturnella,neglecta,Western meadowlark,365.0,365.0,14.0,3.0,2.0,0.8450980400142568,1.9294189257142926,10.0
+Animalia,Chordata,Aves,Passeriformes,Icteridae,Xanthocephalus,xanthocephalus,Yellow-headed blackbird,289.0,289.0,12.0,4.0,1.0,0.5185139398778874,1.8793826371743427,18.0
+Animalia,Chordata,Aves,Passeriformes,Laniidae,Lanius,ludovicianus,Loggerhead shrike,365.0,365.0,11.0,5.0,2.0,0.505149978319906,1.662757831681574,12.5
+Animalia,Chordata,Aves,Passeriformes,Mimidae,Mimus,polyglottos,Northern mockingbird,365.0,365.0,12.0,4.0,2.0,0.5440680443502757,1.724275869600789,20.0
+Animalia,Chordata,Aves,Passeriformes,Mimidae,Toxostoma,curvirostre,Curve-billed thrasher,365.0,365.0,13.0,3.0,2.0,0.7403626894942439,1.9066043717249803,10.8
+Animalia,Chordata,Aves,Passeriformes,Mimidae,Toxostoma,lecontei,Le conte's thrasher,312.0,312.0,16.0,3.0,1.5,0.6009728956867483,1.7911290007272862,5.7
+Animalia,Chordata,Aves,Passeriformes,Mimidae,Toxostoma,rufum,Brown thrasher,274.0,274.0,13.0,4.0,4.0,0.7481880270062004,1.8260748027008264,12.8
+Animalia,Chordata,Aves,Passeriformes,Motacillidae,Anthus,rubescens,American pipit,365.0,365.0,14.0,5.0,1.0,0.26717172840301384,1.3180633349627615,5.1
+Animalia,Chordata,Aves,Passeriformes,Motacillidae,Motacilla,flava,Yellow wagtail,365.0,365.0,11.0,5.0,1.0,0.17609125905568124,1.2479732663618066,8.8
+Animalia,Chordata,Aves,Passeriformes,Muscicapidae,Oenanthe,oenanthe,Northern wheatear,365.0,365.0,14.0,6.0,1.0,0.4471580313422192,1.3979400086720377,10.1
+Animalia,Chordata,Aves,Passeriformes,Paridae,Poecile,atricapillus,Black-capped chickadee,180.0,180.0,12.0,7.0,1.0,0.0,1.0170333392987803,12.4
+Animalia,Chordata,Aves,Passeriformes,Paridae,Poecile,cinctus,Siberian tit or gray-headed chickadee,365.0,365.0,15.0,8.0,1.0,0.0,1.0969100130080565,9.0
+Animalia,Chordata,Aves,Passeriformes,Paridae,Poecile,gambeli,Mountain chickadee,365.0,365.0,14.0,7.0,1.5,0.0,1.0606978403536116,10.1
+Animalia,Chordata,Aves,Passeriformes,Parulidae,Geothlypis,trichas,Common yellowthroat,365.0,365.0,12.0,4.0,1.5,0.24054924828259971,0.9777236052888477,11.5
+Animalia,Chordata,Aves,Passeriformes,Parulidae,Leiothlypis,celata,Orange-crowned warbler,365.0,365.0,12.0,4.0,1.0,0.17609125905568124,0.9637878273455552,8.6
+Animalia,Chordata,Aves,Passeriformes,Parulidae,Leiothlypis,peregrina,Tennessee warbler,365.0,365.0,11.0,6.0,1.0,0.12710479836480765,0.9294189257142927,6.4
+Animalia,Chordata,Aves,Passeriformes,Parulidae,Leiothlypis,ruficapilla,Nashville warbler,365.0,365.0,11.0,4.0,1.0,0.09691001300805642,0.8750612633917001,10.2
+Animalia,Chordata,Aves,Passeriformes,Parulidae,Myioborus,pictus,Painted redstart,304.0,304.0,13.0,4.0,2.0,0.13353890837021754,0.9890046156985368,6.6
+Animalia,Chordata,Aves,Passeriformes,Parulidae,Parkesia,motacilla,Louisiana waterthrush,365.0,365.0,13.0,5.0,1.0,0.3424226808222063,1.3521825181113625,11.9
+Animalia,Chordata,Aves,Passeriformes,Parulidae,Parkesia,noveboracensis,Northern waterthrush,365.0,365.0,12.0,4.0,1.0,0.2787536009528289,1.212187604403958,8.9
+Animalia,Chordata,Aves,Passeriformes,Parulidae,Protonotaria,citrea,Prothonotary warbler,365.0,365.0,13.0,5.0,1.0,0.290034611362518,1.1553360374650619,8.1
+Animalia,Chordata,Aves,Passeriformes,Parulidae,Seiurus,aurocapilla,Ovenbird,365.0,365.0,12.0,4.0,1.0,0.3222192947339193,1.2741578492636798,11.0
+Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,citrina,Hooded warbler,319.0,319.0,12.0,4.0,1.0,0.2787536009528289,1.0253058652647702,8.2
+Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,kirtlandii,Kirtland's warbler,365.0,365.0,14.0,5.0,1.0,0.11394335230683679,1.1903316981702914,9.0
+Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,petechia,Yellow warbler,365.0,365.0,12.0,3.0,1.0,0.12057393120584989,0.9912260756924949,11.0
+Animalia,Chordata,Aves,Passeriformes,Parulidae,Setophaga,striata,Blackpoll warbler,365.0,365.0,12.0,5.0,2.0,0.17609125905568124,1.1760912590556813,8.1
+Animalia,Chordata,Aves,Passeriformes,Parulidae,Vermivora,cyanoptera,Blue-winged warbler,365.0,365.0,11.0,5.0,1.0,0.17609125905568124,0.9493900066449128,9.0
+Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer,domesticus,House sparrow,152.0,365.0,11.0,5.0,4.0,0.3053513694466238,1.403120521175818,23.0
+Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer,montanus,Eurasian tree sparrow,319.0,319.0,13.0,5.0,2.5,0.3010299956639812,1.3117538610557542,13.1
+Animalia,Chordata,Aves,Passeriformes,Polioptilidae,Polioptila,caerulea,Blue-grey gnatcatcher,319.0,319.0,13.0,4.0,2.0,-0.1938200260161128,0.8129133566428556,4.2
+Animalia,Chordata,Aves,Passeriformes,Regulidae,Regulus,satrapa,Golden-crowned kinglet,365.0,365.0,14.0,8.0,2.0,-0.05551732784983137,0.7403626894942439,6.3
+Animalia,Chordata,Aves,Passeriformes,Remizidae,Auriparus,flaviceps,Verdin,365.0,365.0,14.0,4.0,1.5,-0.07058107428570728,0.8325089127062363,5.6
+Animalia,Chordata,Aves,Passeriformes,Sittidae,Sitta,pusilla,Brown-headed nuthatch,365.0,365.0,14.0,5.0,1.0,0.07918124604762482,1.0334237554869496,5.8
+Animalia,Chordata,Aves,Passeriformes,Sittidae,Sitta,pygmaea,Pygmy nuthatch,365.0,365.0,15.0,7.0,1.0,0.07918124604762482,1.0293837776852097,8.2
+Animalia,Chordata,Aves,Passeriformes,Sturnidae,Sturnus,vulgaris,European starling,365.0,365.0,12.0,5.0,2.0,0.8061799739838872,1.8692317197309762,22.9
+Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Campylorhynchus,brunneicapillus,Cactus wren,243.0,243.0,16.0,4.0,3.0,0.5250448070368452,1.5899496013257077,7.3
+Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Thryomanes,bewickii,Bewick's wren,365.0,365.0,14.0,6.0,2.0,0.146128035678238,0.9912260756924949,8.0
+Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Thryothorus,ludovicianus,Carolina wren,365.0,365.0,14.0,4.0,1.0,0.38381536598043126,1.2430380486862944,9.2
+Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Troglodytes,aedon,House wren,365.0,365.0,13.0,7.0,2.0,0.029383777685209667,0.9867717342662449,9.0
+Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Troglodytes,troglodytes,Winter wren,365.0,365.0,15.0,5.0,1.0,0.0,0.9590413923210935,7.0
+Animalia,Chordata,Aves,Passeriformes,Turdidae,Catharus,bicknelli,Bicknell's thrush,365.0,365.0,12.0,4.0,1.0,0.2304489213782739,1.4393326938302626,11.9
+Animalia,Chordata,Aves,Passeriformes,Turdidae,Catharus,guttatus,Hermit thrush,365.0,365.0,12.0,4.0,1.0,0.6148972160331346,1.4440447959180762,10.8
+Animalia,Chordata,Aves,Passeriformes,Turdidae,Catharus,ustulatus,Swainson's thrush,365.0,365.0,12.0,4.0,1.0,0.5910646070264992,1.4456042032735976,11.0
+Animalia,Chordata,Aves,Passeriformes,Turdidae,Hylocichla,mustelina,Wood thrush,365.0,365.0,13.0,3.0,2.0,0.6232492903979004,1.6364878963533653,10.2
+Animalia,Chordata,Aves,Passeriformes,Turdidae,Sialia,mexicana,Western bluebird,365.0,365.0,14.0,5.0,1.5,0.4623979978989561,1.423245873936808,8.7
+Animalia,Chordata,Aves,Passeriformes,Turdidae,Sialia,sialis,Eastern bluebird,306.0,321.0,14.0,4.0,2.0,0.38021124171160603,1.4842998393467859,10.5
+Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus,migratorius,American robin,365.0,365.0,13.0,3.0,2.0,0.7403626894942439,1.8779469516291882,17.0
+Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonax,difficilis,Pacific-slope flycatcher,365.0,365.0,14.0,3.5,1.5,0.17609125905568124,1.0413926851582251,6.9
+Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonax,oberholseri,Dusky flycatcher,365.0,365.0,15.0,4.0,1.0,0.07554696139253074,1.039414119176137,9.0
+Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Empidonax,virescens,Acadian flycatcher,365.0,365.0,13.0,3.0,1.0,0.2787536009528289,1.100370545117563,12.1
+Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiarchus,crinitus,Great crested flycatcher,365.0,365.0,14.0,5.0,1.0,0.47712125471966244,1.506505032404872,14.9
+Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Pyrocephalus,rubinus,Vermilion flycatcher,365.0,365.0,14.0,3.0,1.5,0.11394335230683679,1.1095785469043866,5.5
+Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,tyrannus,Eastern kingbird,365.0,365.0,12.0,3.0,1.0,0.505149978319906,1.6009728956867482,11.1
+Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Tyrannus,verticalis,Western kingbird,365.0,365.0,13.0,4.0,1.0,0.5314789170422551,1.6095944092252201,6.9
+Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,bellii,Bell's vireo,365.0,365.0,14.0,4.0,2.0,0.25527250510330607,1.0,9.1
+Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,griseus,White-eyed vireo,365.0,365.0,13.0,4.0,1.0,0.2380461031287954,1.0791812460476249,10.9
+Animalia,Chordata,Aves,Passeriformes,Vireonidae,Vireo,olivaceus,Red-eyed vireo,365.0,365.0,12.0,3.5,1.0,0.21748394421390627,1.2304489213782739,10.2
+Animalia,Chordata,Aves,Passeriformes,Zosteropidae,Zosterops,japonicus,Japanese white-eye,365.0,365.0,11.0,3.5,2.0,0.04139268515822508,1.0511525224473812,5.1
+Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea,herodias,Great blue heron,669.0,669.0,28.0,4.0,2.0,1.6989700043360187,3.271841606536499,24.5
+Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Bubulcus,ibis,Cattle egret,730.0,730.0,22.0,3.0,1.0,1.2810333672477277,2.591064607026499,23.0
+Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Butorides,virescens,Green heron,730.0,730.0,20.0,4.0,1.0,1.2041199826559248,2.2430380486862944,11.6
+Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Egretta,thula,Snowy egret,365.0,365.0,18.0,4.0,1.0,1.3010299956639813,2.496929648073215,22.8
+Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Nycticorax,nycticorax,Black-crowned night heron,365.0,365.0,25.0,4.0,1.0,1.3838153659804313,2.9030899869919438,21.1
+Animalia,Chordata,Aves,Pelecaniformes,Pelecanidae,Pelecanus,erythrorhynchos,American white pelican,1095.0,1095.0,36.0,2.0,1.0,2.041392685158225,3.78738962135211,54.0
+Animalia,Chordata,Aves,Pelecaniformes,Pelecanidae,Pelecanus,occidentalis,Brown pelican,365.0,730.0,29.0,3.0,1.0,1.8027737252919758,3.4935695729787,43.0
+Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Eudocimus,albus,White ibis,730.0,730.0,22.0,3.0,1.0,1.5599066250361124,2.9731278535996988,27.6
+Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Platalea,ajaja,Roseate spoonbill,1095.0,1095.0,23.0,3.0,1.0,1.6989700043360187,3.0157661922396484,28.0
+Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Plegadis,chihi,White-faced ibis,730.0,730.0,21.0,3.5,1.0,1.4676081055836332,2.687974620034556,20.4
+Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Plegadis,falcinellus,Glossy ibis,1095.0,1095.0,21.0,3.0,1.0,2.220108088040055,2.634678752178682,26.8
+Animalia,Chordata,Aves,Phaethontiformes,Phaethontidae,Phaethon,rubricauda,Red-tailed tropicbird,274.0,274.0,45.0,1.0,1.0,1.7323937598229686,2.7732011423563443,32.7
+Animalia,Chordata,Aves,Piciformes,Picidae,Colaptes,auratus,Northern flicker,365.0,365.0,11.0,4.0,1.0,0.7387805584843692,2.0791812460476247,12.5
+Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes,carolinus,Red-bellied woodpecker,365.0,365.0,12.0,4.0,2.0,0.9030899869919435,1.8603380065709938,20.7
+Animalia,Chordata,Aves,Piciformes,Picidae,Melanerpes,formicivorus,Acorn woodpecker,694.0,766.0,14.0,4.0,2.0,0.6720978579357175,1.9014583213961123,17.2
+Animalia,Chordata,Aves,Piciformes,Picidae,Picoides,borealis,Red-cockaded woodpecker,240.0,240.0,11.0,3.0,1.0,0.505149978319906,1.7481880270062005,16.1
+Animalia,Chordata,Aves,Piciformes,Picidae,Picoides,pubescens,Downy woodpecker,365.0,365.0,12.0,5.0,1.0,0.22271647114758325,1.4082399653118496,11.9
+Animalia,Chordata,Aves,Piciformes,Picidae,Sphyrapicus,varius,Yellow-bellied sapsucker,365.0,365.0,12.0,5.0,1.0,0.3979400086720376,1.6532125137753437,7.8
+Animalia,Chordata,Aves,Podicipediformes,Podicipedidae,Aechmophorus,occidentalis,Western grebe,365.0,365.0,23.0,3.0,1.0,1.4871383754771865,3.168939213835978,14.0
+Animalia,Chordata,Aves,Procellariiformes,Diomedeidae,Phoebastria,immutabilis,Laysan albatross,3141.0,3068.0,64.0,1.0,1.0,2.2232362731029975,3.4983105537896004,65.0
+Animalia,Chordata,Aves,Procellariiformes,Diomedeidae,Phoebastria,nigripes,Black-footed albatross,1825.0,1825.0,65.0,1.0,1.0,2.2612628687924934,3.4471580313422194,42.1
+Animalia,Chordata,Aves,Procellariiformes,Hydrobatidae,Oceanodroma,castro,Harcourt's storm petrel,1826.0,1826.0,42.0,1.0,1.0,0.8750612633917001,1.6232492903979006,36.0
+Animalia,Chordata,Aves,Procellariiformes,Hydrobatidae,Oceanodroma,leucorhoa,Leach's storm petrel,1826.0,1826.0,41.0,1.0,1.0,0.6232492903979004,1.649334858712142,36.0
+Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Bulweria,bulwerii,Bulwer's petrel,1461.0,1461.0,44.0,1.0,1.0,1.2278867046136734,1.99563519459755,22.9
+Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Fulmarus,glacialis,Northern fulmar,2200.0,2200.0,55.0,1.0,1.0,1.8129133566428555,2.958085848521085,51.0
+Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Puffinus,pacificus,Wedge-tailed shearwater,1461.0,1461.0,53.0,1.0,1.0,1.591064607026499,2.52865964523499,29.0
+Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Puffinus,puffinus,Manx shearwater,1825.0,1643.0,51.0,1.0,1.0,1.6532125137753437,2.637489729512511,50.9
+Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Myiopsitta,monachus,Monk parakeet,730.0,730.0,31.0,7.0,2.0,0.6776069527204931,1.9122220565324155,22.1
+Animalia,Chordata,Aves,Strigiformes,Strigidae,Aegolius,acadicus,Northern saw-whet owl,365.0,365.0,27.0,5.5,1.0,0.8750612633917001,2.071513805095089,17.5
+Animalia,Chordata,Aves,Strigiformes,Strigidae,Aegolius,funereus,Boreal owl,365.0,365.0,27.0,5.0,1.0,0.9542425094393249,2.0791812460476247,15.9
+Animalia,Chordata,Aves,Strigiformes,Strigidae,Asio,flammeus,Short-eared owl,365.0,365.0,25.0,6.0,1.5,1.2041199826559248,2.6085260335771943,21.8
+Animalia,Chordata,Aves,Strigiformes,Strigidae,Asio,otus,Long-eared owl,365.0,365.0,27.0,4.5,1.0,1.2405492482825997,2.397418542351348,27.8
+Animalia,Chordata,Aves,Strigiformes,Strigidae,Athene,cunicularia,Burrowing owl,365.0,365.0,28.0,8.0,1.5,0.9493900066449128,2.1760912590556813,11.0
+Animalia,Chordata,Aves,Strigiformes,Strigidae,Bubo,scandiacus,Snowy owl,730.0,730.0,32.0,6.0,1.0,1.6532125137753437,3.310162065204453,28.0
+Animalia,Chordata,Aves,Strigiformes,Strigidae,Bubo,virginianus,Great horned owl,730.0,730.0,27.0,3.0,1.0,1.5403294747908738,3.0759846847441197,29.0
+Animalia,Chordata,Aves,Strigiformes,Strigidae,Megascops,asio,Eastern screech-owl,365.0,365.0,29.0,4.0,1.0,1.0413926851582251,2.215108581053093,20.7
+Animalia,Chordata,Aves,Strigiformes,Strigidae,Megascops,kennicottii,Western screech-owl,365.0,365.0,30.0,4.0,1.0,1.1476763242410988,2.311753861055754,19.0
+Animalia,Chordata,Aves,Strigiformes,Strigidae,Otus,flammeolus,Flammulated owl,365.0,365.0,22.0,3.0,1.0,0.8750612633917001,1.7442929831226763,8.1
+Animalia,Chordata,Aves,Strigiformes,Strigidae,Strix,nebulosa,Great grey owl,365.0,365.0,30.0,2.0,1.0,1.5740312677277188,3.0492180226701815,15.9
+Animalia,Chordata,Aves,Strigiformes,Strigidae,Strix,varia,Barred owl,730.0,730.0,28.0,2.0,1.0,1.662757831681574,2.8543060418010806,24.0
+Animalia,Chordata,Aves,Strigiformes,Tytonidae,Tyto,alba,Barn owl,365.0,365.0,33.0,6.0,2.0,1.1760912590556813,2.7634279935629373,34.0
+Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,auritus,Double-crested cormorant,730.0,730.0,24.0,4.0,1.0,1.4934580509951885,3.2593549273080344,22.5
+Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,carbo,Great cormorant,1460.0,1460.0,30.0,4.0,1.0,1.6857417386022637,3.559763032876794,27.2
+Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,pelagicus,Pelagic cormorant,730.0,730.0,22.0,4.0,1.0,1.5440680443502757,3.3098855596601937,17.8
+Animalia,Chordata,Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,penicillatus,Brandt's cormorant,730.0,730.0,30.0,3.0,1.0,1.5185139398778875,3.3848907965305544,18.0
+Animalia,Chordata,Aves,Suliformes,Sulidae,Morus,bassanus,Northern gannet,730.0,1095.0,43.0,1.0,1.0,1.9030899869919435,3.469822015978163,37.4
+Animalia,Chordata,Aves,Suliformes,Sulidae,Sula,dactylatra,Masked booby,1461.0,1461.0,43.0,1.5,1.0,1.717670503002262,3.2403495267422193,25.5
+Animalia,Chordata,Aves,Suliformes,Sulidae,Sula,sula,Red-footed booby,730.0,730.0,44.0,1.0,1.0,1.6020599913279623,3.0073209529227447,23.0
+Animalia,Chordata,Mammalia,Afrosoricida,Tenrecidae,Echinops,telfairi,Lesser hedgehog tenrec,365.0,365.0,55.0,6.0,1.0,0.884795363948981,2.255272505103306,19.0
+Animalia,Chordata,Mammalia,Afrosoricida,Tenrecidae,Hemicentetes,semispinosus,Streaked tenrec,35.0,35.0,59.0,4.0,2.0,1.0606978403536116,2.255272505103306,2.7
+Animalia,Chordata,Mammalia,Afrosoricida,Tenrecidae,Microgale,dobsoni,Dobson's shrew tenrec,669.0,669.0,61.0,2.67,1.5,0.5965970956264602,1.5774917998372253,5.6
+Animalia,Chordata,Mammalia,Afrosoricida,Tenrecidae,Microgale,talazaci,Talazac's shrew tenrec,639.0,639.0,61.0,2.0,1.5,0.5563025007672873,1.6989700043360187,5.8
+Animalia,Chordata,Mammalia,Afrosoricida,Tenrecidae,Setifer,setosus,Greater hedgehog tenrec,198.0,258.0,54.0,3.0,1.0,1.3926969532596658,2.3521825181113627,14.1
+Animalia,Chordata,Mammalia,Afrosoricida,Tenrecidae,Tenrec,ecaudatus,Tenrec,182.0,182.0,58.0,18.0,1.5,1.3222192947339193,2.9542425094393248,8.7
+Animalia,Chordata,Mammalia,Artiodactyla,Antilocapridae,Antilocapra,americana,Pronghorn,547.0,547.0,235.0,2.0,1.0,3.4771212547196626,4.663700925389648,15.5
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Addax,nasomaculatus,Addax,1065.0,1065.0,282.0,1.0,1.0,3.7481880270062002,4.9661417327390325,28.0
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Aepyceros,melampus,Impala,456.0,395.0,198.0,1.0,1.0,3.7442929831226763,4.720159303405957,25.6
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Alcelaphus,buselaphus,Hartebeest,730.0,730.0,247.0,1.0,1.0,3.9566485792052033,5.201397124320452,22.5
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ammotragus,lervia,Aoudad,335.0,335.0,149.0,1.2,2.0,3.6532125137753435,4.9661417327390325,21.7
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Antidorcas,marsupialis,Springbok,213.0,400.0,168.0,1.0,1.0,3.6190933306267428,4.5910646070264995,19.8
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Antilope,cervicapra,Blackbuck,466.0,466.0,168.0,1.0,1.9,3.5854607295085006,4.574031267727719,23.9
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bison,bison,American bison,912.0,912.0,274.0,1.0,1.0,4.301029995663981,5.799340549453582,33.5
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bison,bonasus,European bison,730.0,730.0,270.0,1.0,1.0,4.368751619544556,5.785329835010767,26.4
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bos,frontalis,Gaur,590.0,550.0,275.0,1.0,0.9,4.361727836017593,5.9164539485499255,26.2
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bos,grunniens,Yak,738.0,738.0,274.0,1.0,0.8,4.2552725051033065,5.824125833916549,26.3
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Boselaphus,tragocamelus,Nilgai,815.0,815.0,255.0,1.5,1.0,3.7690078709437738,5.2552725051033065,21.7
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bubalus,bubalis,Water buffalo,502.0,502.0,311.0,1.375,1.0,4.574031267727719,5.860338006570994,34.9
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Budorcas,taxicolor,Takin,730.0,730.0,210.0,1.0,1.0,3.7781512503836434,5.2552725051033065,21.9
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,cylindricornis,East Caucasian tur,1019.0,914.0,161.0,1.2,1.0,3.5783526415103615,4.698970004336019,20.2
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,hircus,Domestic goat,406.0,685.0,155.0,1.5,1.0,3.3521825181113627,4.785329835010767,20.8
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,ibex,Ibex,797.0,1256.0,169.0,1.1,0.8,3.45484486000851,4.9164539485499255,20.9
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capricornis,crispus,Japanese serow,1095.0,1095.0,215.0,1.0,1.0,3.5453689773706936,4.903089986991944,24.0
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capricornis,sumatraensis,Serow,912.0,1004.0,213.0,1.0,1.0,3.5440680443502757,4.977723605288848,18.5
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Cephalophus,dorsalis,Bay duiker,578.0,578.0,236.0,1.0,1.0,3.2068258760318495,4.064457989226918,17.5
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Cephalophus,rufilatus,Red-flanked duiker,270.0,270.0,230.0,1.0,1.0,2.9745116927373285,4.113943352306837,15.2
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Connochaetes,gnou,Black wildebeest,763.0,763.0,259.0,1.0,1.0,4.041392685158225,5.121395680707224,21.8
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Connochaetes,taurinus,Blue wildebeest,411.0,912.0,253.0,1.0,1.0,4.2582780152430315,5.216165902285993,24.3
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Damaliscus,lunatus,Topi,639.0,639.0,238.0,1.0,0.6,4.045322978786658,5.041392685158225,23.6
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Damaliscus,pygargus,Sassaby or blesbok,707.0,707.0,243.0,1.2,0.6,3.831997677235896,4.926856708949693,23.0
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Eudorcas,thomsonii,Thomson's gazelle,365.0,365.0,170.0,1.0,1.5,3.4149733479708178,4.3979400086720375,20.0
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Gazella,dorcas,Dorcas gazelle,730.0,589.0,182.0,1.0,1.0,3.2174839442139063,4.161368002234975,23.7
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Gazella,gazella,Mountain gazelle,476.0,476.0,180.0,1.0,1.5,3.3729120029701067,4.366422957225972,18.3
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Gazella,leptoceros,Rhim gazelle,157.0,157.0,176.0,1.0,1.0,3.6665179805548807,4.685741738602264,14.6
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Gazella,subgutturosa,Goitered gazelle,646.0,746.0,175.0,1.3,1.0,3.4191293077419758,4.685741738602264,16.3
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Hemitragus,jemlahicus,Himalayan tahr,547.0,730.0,183.0,1.0,1.0,3.3010299956639813,4.546542663478131,21.8
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Hippotragus,equinus,Roan antelope,730.0,814.0,284.0,1.0,1.0,4.180899686766231,5.352182518111363,25.9
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Hippotragus,niger,Sable antelope,768.0,1184.0,271.0,1.0,1.0,4.214181308663821,5.352182518111363,22.2
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Kobus,ellipsiprymnus,Waterbuck,771.0,771.0,264.0,1.0,1.0,3.9542425094393248,5.2438636637783835,30.0
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Kobus,kob,Kob,403.0,365.0,251.0,1.0,1.3,3.7327956982893293,5.021189299069938,21.9
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Kobus,leche,Lechwe,898.0,1050.0,229.0,1.0,1.0,3.7075701760979363,4.976808337338066,25.4
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Kobus,megaceros,Nile lechwe,730.0,730.0,235.0,1.0,1.0,3.7075701760979363,4.954242509439325,21.1
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Madoqua,kirkii,Kirk's dik-dik,213.0,304.0,172.0,1.0,2.0,2.7781512503836434,3.6989700043360187,17.3
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Naemorhedus,goral,Goral,500.0,500.0,215.0,1.0,1.0,3.3010299956639813,4.501743729627995,17.6
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Nanger,granti,Grant's gazelle,251.0,251.0,196.0,1.0,1.0,3.748381865207099,4.826074802700826,19.7
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Oreamnos,americanus,Mountain goat,912.0,912.0,184.0,1.2,1.0,3.505149978319906,4.954242509439325,20.8
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Oreotragus,oreotragus,Klipspringer,365.0,365.0,196.0,1.0,1.0,3.0530784434834195,4.079181246047625,25.9
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Oryx,dammah,Scimitar-horned oryx,639.0,639.0,247.0,1.0,1.15,4.013553430541676,5.249198357391113,27.5
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Oryx,gazella,Gemsbok,550.0,550.0,270.0,1.0,1.3,4.079181246047625,5.230448921378274,23.8
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ourebia,ourebi,Oribi,304.0,426.0,193.0,1.0,1.5,3.3492775274679554,4.230448921378274,15.9
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ovibos,moschatus,Muskox,1096.0,1278.0,258.0,1.0,0.8,4.059184617631371,5.498310553789601,27.4
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,ammon,Argali,403.0,823.0,170.0,1.0,1.0,3.531478917042255,5.204119982655925,16.8
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,aries,Domestic sheep or mouflon,548.0,914.0,146.0,1.58,1.0,3.374748346010104,4.903089986991944,22.8
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,canadensis,Bighorn sheep,707.0,749.0,180.0,1.0,1.0,3.6434526764861874,4.846800854279478,20.6
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,dalli,Dall's sheep,684.0,639.0,173.0,1.0,1.0,3.4500950758716025,4.86391737695786,19.6
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Philantomba,maxwellii,Maxwell's duiker,730.0,730.0,120.0,1.0,1.0,2.920123326290724,3.845098040014257,18.3
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Philantomba,monticola,Blue duiker,487.0,685.0,193.0,1.0,1.0,2.9030899869919438,3.7958800173440754,15.9
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Procapra,gutturosa,Mongolian gazelle,532.0,532.0,185.0,1.3,1.0,3.462397997898956,4.477121254719663,12.0
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Raphicerus,campestris,Steenbok,238.0,243.0,197.0,1.0,1.0,2.963787827345555,4.113943352306837,9.3
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Redunca,fulvorufula,Mountain reedbuck,388.0,335.0,216.0,1.0,1.1,3.4771212547196626,4.477121254719663,15.0
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Rupicapra,rupicapra,Chamois,674.0,669.0,122.0,1.0,1.0,3.380211241711606,4.574031267727719,17.6
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Sylvicapra,grimmia,Bush duiker,255.0,255.0,165.0,1.0,1.4,3.2073650374690716,4.267171728403014,15.4
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Syncerus,caffer,African buffalo,1475.0,1674.0,331.0,1.0,0.4,4.643452676486188,5.845098040014257,32.8
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Taurotragus,oryx,Eland,589.0,571.0,274.0,1.0,1.0,4.505149978319906,5.698970004336019,26.1
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Tetracerus,quadricornis,Four-horned antelope,365.0,365.0,212.0,1.5,1.0,3.0187004986662433,4.278753600952829,17.4
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Tragelaphus,angasii,Nyala,452.0,452.0,224.0,1.0,1.2,3.718709237010724,5.079181246047625,18.5
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Tragelaphus,eurycerus,Bongo,806.0,914.0,288.0,1.0,0.7,4.296665190261531,5.4878451201114355,21.9
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Tragelaphus,imberbis,Lesser kudu,504.0,504.0,235.0,1.0,1.3,3.7781512503836434,4.9164539485499255,19.8
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Tragelaphus,scriptus,Bushbuck,496.0,496.0,188.0,1.0,1.5,3.57978359661681,4.778151250383644,15.3
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Tragelaphus,spekii,Sitatunga,401.0,401.0,242.0,1.0,1.0,3.6020599913279625,4.942008053022313,22.6
+Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Tragelaphus,strepsiceros,Greater kudu,517.0,517.0,228.0,1.0,1.0,4.176091259055681,5.337459261290656,23.5
+Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Camelus,bactrianus,Bactrian camel,1278.0,1278.0,395.0,1.0,0.5,4.556302500767287,5.676693609624866,35.4
+Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Camelus,dromedarius,Dromedary,1095.0,2191.0,405.0,1.0,0.7,4.568201724066995,5.63748972951251,28.4
+Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Lama,glama,Llama,800.0,800.0,330.0,1.0,1.0,4.041392685158225,5.146128035678238,28.9
+Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Lama,guanicoe,Guanaco,365.0,730.0,335.0,1.0,0.5,4.060697840353612,5.105510184769974,33.7
+Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Vicugna,pacos,Alpaca,432.0,500.0,345.0,1.04,0.7,3.857935264719429,4.7923916894982534,25.8
+Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Vicugna,vicugna,Vicugna,730.0,730.0,340.0,1.0,0.7,3.7589118923979736,4.698970004336019,31.6
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Axis,axis,Chital,766.0,913.0,226.0,1.03,1.3,3.4974825373673704,4.556302500767287,20.8
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Axis,porcinus,Hog deer,304.0,304.0,232.0,1.0,1.3,3.4034637013453173,4.633468455579586,22.9
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Capreolus,capreolus,Western roe deer,413.0,655.0,153.0,1.6,1.0,3.0043213737826426,4.335792770068036,17.5
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Cervus,elaphus,Red deer,852.0,730.0,245.0,1.0,0.9,4.004321373782642,5.301029995663981,31.5
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Cervus,nippon,Sika deer,500.0,500.0,210.0,1.0,1.0,3.7596678446896306,4.623249290397901,26.3
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Dama,dama,Fallow deer,487.0,507.0,233.0,1.0,1.0,3.6532125137753435,4.845098040014257,21.1
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Elaphurus,davidianus,Pere David's deer,821.0,1186.0,288.0,1.0,1.0,4.041392685158225,5.270678836144707,27.5
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Hydropotes,inermis,Chinese water deer,183.0,183.0,190.0,2.7,1.0,3.0178677189635055,4.060697840353612,13.9
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Mazama,americana,Red brocket,395.0,365.0,225.0,1.3,1.0,2.7311857076340003,4.518513939877887,17.1
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Mazama,gouazoubira,Gray brocket,395.0,365.0,212.0,1.0,1.0,2.9633155113861114,4.230448921378274,14.8
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Muntiacus,muntjak,Indian muntjac,272.0,332.0,210.0,1.17,1.5,3.0874264570362855,4.3222192947339195,18.8
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Muntiacus,reevesi,Reeves's muntjac,274.0,274.0,199.0,1.0,1.5,3.0211892990699383,4.2552725051033065,23.2
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Odocoileus,hemionus,Mule deer,478.0,503.0,207.0,1.5,1.0,3.469822015978163,4.7558748556724915,22.0
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Odocoileus,virginianus,White-tailed deer,309.0,417.0,198.0,2.0,1.0,3.4771212547196626,4.939519252618618,23.0
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Ozotoceros,bezoarticus,Pampas deer,365.0,365.0,213.0,1.0,1.0,3.322219294733919,4.511883360978874,21.9
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Pudu,puda,Southern pudu,274.0,320.0,200.0,1.0,1.0,2.9542425094393248,4.0,18.3
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Rangifer,tarandus,Caribou and reindeer,662.0,680.0,228.0,1.0,1.0,3.8129133566428557,5.005395031886706,21.8
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Rucervus,eldii,Eld's deer,508.0,508.0,241.0,1.0,1.0,3.6766936096248664,5.088136088700551,20.5
+Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Rusa,unicolor,Sambar,650.0,650.0,232.0,1.0,1.0,4.0,5.267171728403014,26.4
+Animalia,Chordata,Mammalia,Artiodactyla,Giraffidae,Giraffa,camelopardalis,Giraffe,1278.0,1644.0,457.0,1.0,0.5,4.76715586608218,5.903089986991944,39.5
+Animalia,Chordata,Mammalia,Artiodactyla,Giraffidae,Okapia,johnstoni,Okapi,578.0,790.0,458.0,1.0,0.8,4.204119982655925,5.352182518111363,33.5
+Animalia,Chordata,Mammalia,Artiodactyla,Hippopotamidae,Hexaprotodon,liberiensis,Pygmy hippopotamus,1278.0,1644.0,199.0,1.0,0.4,3.690196080028514,5.332438459915605,42.3
+Animalia,Chordata,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,amphibius,Hippopotamus,1279.0,1279.0,234.0,1.0,0.6,4.6020599913279625,6.574031267727719,61.2
+Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Babyrousa,babyrussa,Babirusa,548.0,548.0,153.0,1.3,2.0,2.8543060418010806,4.854306041801081,22.9
+Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Phacochoerus,africanus,Wart hog,578.0,578.0,164.0,3.0,1.5,2.8195439355418688,5.0,20.9
+Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Potamochoerus,porcus,Red river hog,1096.0,1096.0,122.0,3.0,1.25,2.88930170250631,4.944482672150168,22.0
+Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus,salvanius,Pygmy hog,700.0,700.0,108.0,3.0,1.25,2.2821687783046416,3.9030899869919438,14.0
+Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus,scrofa,Wild boar,334.0,768.0,115.0,7.0,1.5,2.9822712330395684,5.113943352306837,27.0
+Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus,verrucosus,Javan pig,274.0,274.0,120.0,6.0,1.25,3.0,4.880813592280791,17.0
+Animalia,Chordata,Mammalia,Artiodactyla,Tayassuidae,Pecari,tajacu,Collared peccary,329.0,358.0,145.0,2.0,2.0,2.845098040014257,4.305351369446623,31.5
+Animalia,Chordata,Mammalia,Artiodactyla,Tayassuidae,Tayassu,pecari,White-lipped peccary,548.0,548.0,158.0,2.0,2.0,2.845098040014257,4.342422680822207,28.5
+Animalia,Chordata,Mammalia,Artiodactyla,Tragulidae,Tragulus,javanicus,Lesser mouse-deer,167.0,167.0,144.0,1.0,1.0,2.568201724066995,3.45484486000851,14.0
+Animalia,Chordata,Mammalia,Artiodactyla,Tragulidae,Tragulus,napu,Greater mouse-deer,137.0,135.0,153.0,1.0,1.0,2.571708831808688,3.8129133566428557,16.7
+Animalia,Chordata,Mammalia,Carnivora,Ailuridae,Ailurus,fulgens,Red panda,550.0,550.0,116.0,2.0,1.0,2.0,3.635986111800833,19.0
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,aureus,Golden jackal,334.0,334.0,63.0,3.0,1.0,2.3170181010481117,4.041392685158225,18.8
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,274.0,274.0,63.0,6.0,1.0,2.3979400086720375,4.122215878272827,21.8
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,lupus,Gray wolf,669.0,669.0,62.0,6.0,0.8,2.6532125137753435,4.425289616446794,20.6
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,mesomelas,Black-backed jackal,309.0,251.0,60.0,4.0,1.0,2.2013971243204513,4.010723865391773,16.7
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Cerdocyon,thous,Crab-eating fox,274.0,274.0,55.0,4.0,1.9,2.146128035678238,3.8129133566428557,12.7
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Chrysocyon,brachyurus,Maned wolf,730.0,730.0,64.0,3.0,1.0,2.5658478186735176,4.332438459915605,16.8
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Cuon,alpinus,Dhole,365.0,365.0,61.0,5.0,1.0,2.439332693830263,4.19728055812562,16.1
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Lycalopex,culpaeus,Culpeo,365.0,365.0,61.0,4.0,1.0,2.225309281725863,4.113943352306837,13.1
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Lycaon,pictus,African wild dog,639.0,639.0,72.0,8.0,1.0,2.5024271199844326,4.423245873936808,17.0
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Nyctereutes,procyonoides,Raccoon dog,304.0,304.0,61.0,6.0,1.0,1.8750612633917,3.8129133566428557,16.6
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Otocyon,megalotis,Bat-eared fox,365.0,365.0,68.0,4.0,2.0,2.0863598306747484,3.6180480967120925,17.0
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Speothos,venaticus,Bush dog,304.0,365.0,68.0,4.0,2.0,2.2041199826559246,3.7781512503836434,14.1
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Urocyon,cinereoargenteus,Gray fox,345.0,365.0,57.0,4.0,1.0,1.9777236052888478,3.6766936096248664,16.2
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,corsac,Corsac fox,504.0,504.0,53.0,4.7,1.0,1.7958800173440752,3.4313637641589874,13.0
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,lagopus,Arctic fox,304.0,304.0,52.0,9.0,1.0,1.845098040014257,3.716003343634799,16.3
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,velox,Swift fox,365.0,365.0,55.0,4.5,1.0,1.5982431916536226,3.380211241711606,15.9
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,vulpes,Red fox,304.0,304.0,52.0,5.0,1.0,2.0,3.6161287801577155,21.3
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,zerda,Fennec,274.0,274.0,51.0,2.2,1.0,1.4196253608877432,3.0969100130080562,16.3
+Animalia,Chordata,Mammalia,Carnivora,Eupleridae,Cryptoprocta,ferox,Fossa,1496.0,1496.0,90.0,3.0,1.0,2.0,3.9777236052888476,23.1
+Animalia,Chordata,Mammalia,Carnivora,Eupleridae,Fossa,fossana,Malagasy civet,728.0,728.0,82.0,1.0,1.0,1.8293037728310249,3.187520720836463,21.4
+Animalia,Chordata,Mammalia,Carnivora,Eupleridae,Galidia,elegans,Ring-tailed mongoose,737.0,737.0,72.0,1.0,1.0,1.6989700043360187,2.9030899869919438,26.0
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Acinonyx,jubatus,Cheetah,456.0,456.0,88.0,3.0,0.7,2.6893088591236203,4.7283537820212285,20.5
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Caracal,caracal,Caracal,456.0,456.0,74.0,3.0,1.15,2.2174839442139063,4.204119982655925,20.3
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Catopuma,temminckii,Asiatic golden cat,639.0,639.0,95.0,1.0,1.15,2.3979400086720375,4.1303337684950066,23.0
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,catus,Domestic cat,289.0,289.0,65.0,4.0,2.15,1.9890046156985368,3.591064607026499,30.0
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,chaus,Jungle cat,335.0,335.0,60.0,3.0,2.0,2.1172712956557644,4.0,20.0
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,manul,Pallas' cat,365.0,365.0,72.0,4.1,2.15,1.9493900066449128,3.5440680443502757,15.9
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,margarita,Sand cat,274.0,274.0,67.0,4.5,2.0,1.7442929831226763,3.439332693830263,13.9
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,nigripes,Black-footed cat,445.0,434.0,66.0,2.0,4.0,1.8597385661971468,3.3273589343863303,15.6
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,silvestris,Wild cat,304.0,304.0,64.0,3.7,2.3,2.0,3.7403626894942437,19.0
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,geoffroyi,Geoffroy's cat,479.0,479.0,75.0,2.0,1.3,1.9694159123539814,3.6020599913279625,23.0
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,pardalis,Ocelot,600.0,600.0,77.0,2.0,1.0,2.4073909044707316,3.9444826721501687,28.2
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,wiedii,Margay,659.0,659.0,81.0,1.5,1.15,2.2214142378423385,3.5642753785522703,24.0
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Leptailurus,serval,Serval,821.0,821.0,70.0,2.5,2.5,2.419955748489758,4.125481265700594,22.4
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Lynx,canadensis,Canada lynx,498.0,573.0,63.0,3.5,1.0,2.3096301674258988,4.004321373782642,26.8
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Lynx,lynx,Eurasian lynx,639.0,1004.0,66.0,2.0,1.0,2.391816923613249,4.361727836017593,23.7
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,365.0,730.0,65.0,3.0,0.9,2.423245873936808,3.934498451243568,32.3
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Neofelis,nebulosa,Clouded leopard,730.0,1095.0,89.0,2.0,1.15,2.230448921378274,4.290034611362518,19.8
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,leo,Lion,1095.0,1095.0,109.0,3.0,1.0,3.113943352306837,5.243038048686294,27.0
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,onca,Jaguar,730.0,730.0,99.0,2.0,0.5,2.9138138523837167,4.909288524162251,28.0
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,pardus,Leopard,937.0,771.0,97.0,2.0,1.25,2.7403626894942437,4.730378468587643,27.3
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,tigris,Tiger,1268.0,1415.0,105.0,2.5,0.4,3.0755469613925306,5.078094150406411,26.3
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Prionailurus,bengalensis,Leopard cat,365.0,365.0,62.0,2.5,1.15,1.9822712330395684,3.6989700043360187,17.0
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Puma,concolor,Cougar,912.0,912.0,92.0,2.5,0.45,2.6020599913279625,4.799340549453582,23.8
+Animalia,Chordata,Mammalia,Carnivora,Felidae,Uncia,uncia,Snow leopard,730.0,730.0,96.0,2.0,1.0,2.6766936096248664,4.698970004336019,21.2
+Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Atilax,paludinosus,Marsh mongoose,255.0,255.0,76.0,2.0,2.0,2.0,3.5185139398778875,20.8
+Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Crossarchus,obscurus,Long-nosed cusimanse,274.0,274.0,58.0,4.0,2.5,0.9912260756924949,2.8976270912904414,13.3
+Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Herpestes,javanicus,Javan mongoose,301.0,122.0,49.0,2.0,2.0,1.4136349971985558,2.9030899869919438,16.6
+Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Mungos,mungo,Banded mongoose,289.0,289.0,60.0,2.5,2.0,1.591064607026499,3.12434117077496,17.4
+Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Suricata,suricatta,Meerkat,365.0,365.0,77.0,4.0,1.0,1.462397997898956,2.8898617212581885,20.6
+Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Crocuta,crocuta,Spotted hyena,1095.0,639.0,110.0,2.0,1.0,3.143014800254095,4.799340549453582,41.1
+Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Hyaena,brunnea,Brown hyena,1000.0,1000.0,92.0,2.5,0.4,2.837588438235511,4.625826713285711,31.9
+Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Hyaena,hyaena,Striped hyena,800.0,800.0,90.0,2.5,0.4,2.845098040014257,4.6020599913279625,25.0
+Animalia,Chordata,Mammalia,Carnivora,Mephitidae,Mephitis,mephitis,Striped skunk,335.0,335.0,63.0,5.0,1.0,1.5250448070368452,3.5440680443502757,13.9
+Animalia,Chordata,Mammalia,Carnivora,Mephitidae,Spilogale,putorius,Eastern spotted skunk,152.0,152.0,31.0,5.0,1.5,0.9777236052888477,2.7781512503836434,10.5
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Aonyx,capensis,African clawless otter,365.0,365.0,63.0,2.5,2.0,3.0211892990699383,4.371067862271736,14.2
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Eira,barbara,Tayra,700.0,183.0,66.0,2.0,1.0,1.919078092376074,3.6532125137753435,22.3
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Enhydra,lutris,Sea otter,974.0,1369.0,140.0,1.0,0.8,3.2713768718940743,4.412460547429961,27.0
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Gulo,gulo,Wolverine,710.0,776.0,35.0,3.0,0.5,1.9777236052888478,4.213073938992678,19.5
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Ictonyx,striatus,Striped polecat,304.0,393.0,36.0,2.0,1.0,1.1760912590556813,2.9590413923210934,14.0
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,Northern river otter,730.0,730.0,62.0,2.5,0.9,2.146128035678238,3.9542425094393248,27.0
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Lutra,lutra,European otter,548.0,548.0,61.0,2.0,1.0,2.0433622780211294,3.829303772831025,18.2
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Martes,americana,American marten,365.0,365.0,28.0,3.0,1.0,1.4771212547196624,2.946452265013073,17.8
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Martes,foina,Beech marten,548.0,730.0,30.0,3.5,1.0,1.4771212547196624,3.230448921378274,18.2
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Martes,martes,European pine marten,456.0,426.0,28.0,4.0,1.0,1.4771212547196624,3.113943352306837,18.2
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Martes,pennanti,Fisher,365.0,365.0,45.0,2.5,1.0,1.5440680443502757,3.5017437296279943,14.3
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Martes,zibellina,Sable,456.0,456.0,30.0,3.0,1.0,1.4771212547196624,3.0280422950907497,18.4
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Meles,meles,Old World badger,365.0,365.0,49.0,3.0,1.0,1.9030899869919435,4.113943352306837,18.6
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,erminea,Ermine,95.0,365.0,43.0,6.77,1.0,0.36172783601759284,2.0425755124401905,12.5
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,eversmanii,Steppe polecat,319.0,319.0,36.0,9.4,1.0,0.75815462196739,3.130333768495006,9.1
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,frenata,Long-tailed weasel,162.0,365.0,25.0,6.2,1.0,0.4913616938342727,2.177824971864682,8.8
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,lutreola,European mink,323.0,323.0,54.0,4.0,1.0,0.9030899869919435,2.7708520116421442,8.4
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,nigripes,Black-footed ferret,365.0,365.0,43.0,3.0,1.0,0.8692317197309762,3.0090257420869104,9.4
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,nivalis,Least weasel,120.0,120.0,36.0,5.0,1.5,0.414973347970818,1.6711728427150832,9.1
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,putorius,European polecat,312.0,322.0,42.0,7.5,1.5,0.9777236052888477,2.9079485216122722,11.1
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Neovison,vison,American mink,334.0,371.0,42.0,4.5,1.0,0.9294189257142927,2.9661417327390325,11.4
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Pteronura,brasiliensis,Giant otter,730.0,730.0,68.0,1.5,1.0,2.310162065204453,4.380211241711606,17.3
+Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Taxidea,taxus,American badger,183.0,441.0,41.0,3.0,0.7,1.9708116108725178,3.9030899869919438,25.0
+Animalia,Chordata,Mammalia,Carnivora,Nandiniidae,Nandinia,binotata,African palm civet,1095.0,1095.0,64.0,2.0,2.0,1.7403626894942439,3.278753600952829,21.0
+Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus,australis,South American fur seal,1095.0,2556.0,236.0,1.0,1.0,3.6283889300503116,5.041392685158225,30.6
+Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus,pusillus,South African fur seal,1276.0,1643.0,368.0,1.0,1.0,3.792391689498254,5.105683867828439,32.1
+Animalia,Chordata,Mammalia,Carnivora,Otariidae,Eumetopias,jubatus,Steller sea lion,1780.0,2420.0,274.0,1.0,1.0,4.278753600952829,5.6180480967120925,32.8
+Animalia,Chordata,Mammalia,Carnivora,Otariidae,Neophoca,cinerea,Australian sea lion,1095.0,2191.0,258.0,1.0,0.69,3.8497264441963277,5.278753600952829,24.1
+Animalia,Chordata,Mammalia,Carnivora,Otariidae,Otaria,flavescens,Southern sea lion,1461.0,2191.0,357.0,1.0,1.0,4.096910013008056,5.317018101048111,29.0
+Animalia,Chordata,Mammalia,Carnivora,Otariidae,Zalophus,californianus,California sea lion,1095.0,1826.0,259.0,1.2,0.5,3.845098040014257,5.2552725051033065,35.7
+Animalia,Chordata,Mammalia,Carnivora,Phocidae,Halichoerus,grypus,Gray seal,1460.0,1887.0,240.0,1.0,0.9,4.146128035678238,5.4281347940287885,42.9
+Animalia,Chordata,Mammalia,Carnivora,Phocidae,Phoca,vitulina,Harbor seal,1095.0,1460.0,253.0,1.0,1.0,4.041392685158225,5.060697840353612,47.6
+Animalia,Chordata,Mammalia,Carnivora,Phocidae,Pusa,hispida,Ringed seal,1826.0,2191.0,251.0,1.0,1.0,3.7781512503836434,4.954242509439325,46.0
+Animalia,Chordata,Mammalia,Carnivora,Phocidae,Pusa,sibirica,Baikal seal,2129.0,2557.0,273.0,1.02,1.0,3.4771212547196626,4.954242509439325,56.0
+Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Bassaricyon,gabbii,Olingo,685.0,594.0,73.0,1.0,1.0,1.7403626894942439,3.0916669575956846,21.8
+Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Bassariscus,astutus,Ringtail,300.0,300.0,52.0,3.0,1.0,1.4771212547196624,3.0064660422492318,19.0
+Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Bassariscus,sumichrasti,Cacomistle,300.0,300.0,64.0,2.0,1.0,1.3979400086720377,2.9542425094393248,24.0
+Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Nasua,narica,White-nosed coati,712.0,712.0,78.0,4.17,1.0,2.146128035678238,3.574031267727719,26.4
+Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Nasua,nasua,South american coati,730.0,730.0,73.0,4.0,1.0,2.146128035678238,3.6766936096248664,23.7
+Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Potos,flavus,Kinkajou,820.0,550.0,115.0,1.0,1.0,2.2430380486862944,3.4771212547196626,38.4
+Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Procyon,cancrivorus,Crab-eating raccoon,365.0,365.0,63.0,3.0,1.0,1.8512583487190752,3.7972675408307164,19.0
+Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Common raccoon,365.0,365.0,63.0,4.0,1.0,1.9030899869919435,3.7781512503836434,21.0
+Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ailuropoda,melanoleuca,Giant panda,2192.0,2192.0,48.0,1.5,0.7,2.041392685158225,5.0700378666077555,36.8
+Animalia,Chordata,Mammalia,Carnivora,Ursidae,Helarctos,malayanus,Sun bear,2372.0,2372.0,95.0,1.0,0.4,2.5118833609788744,4.662757831681574,35.9
+Animalia,Chordata,Mammalia,Carnivora,Ursidae,Melursus,ursinus,Sloth bear,1095.0,1095.0,198.0,1.5,0.4,2.6020599913279625,5.0,33.3
+Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,americanus,American black bear,1278.0,1278.0,70.0,2.0,0.4,2.443262987458695,5.1882251727052795,34.0
+Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,arctos,Brown bear,1313.0,1313.0,103.0,2.0,0.4,2.7075701760979363,5.443262987458695,40.0
+Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,maritimus,Polar bear,1734.0,1734.0,65.0,2.0,0.4,2.8228216453031045,5.676693609624866,43.8
+Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,thibetanus,Asiatic black bear,1095.0,1095.0,228.0,2.0,0.4,2.6655809910179533,5.01598810538413,39.2
+Animalia,Chordata,Mammalia,Carnivora,Viverridae,Arctictis,binturong,Binturong,925.0,840.0,92.0,2.0,2.0,2.5024271199844326,4.088136088700551,27.0
+Animalia,Chordata,Mammalia,Carnivora,Viverridae,Civettictis,civetta,African civet,365.0,213.0,65.0,2.5,2.2,2.5803546611065915,4.1356636612536155,28.0
+Animalia,Chordata,Mammalia,Carnivora,Viverridae,Genetta,genetta,Small-spotted genet,1479.0,1479.0,78.0,2.0,2.0,1.8907003976988752,3.2710745274759008,22.7
+Animalia,Chordata,Mammalia,Carnivora,Viverridae,Genetta,tigrina,Large-spotted genet,1461.0,1461.0,70.0,2.5,2.0,1.8543060418010806,3.2600713879850747,21.3
+Animalia,Chordata,Mammalia,Carnivora,Viverridae,Paradoxurus,hermaphroditus,Asian palm civet,341.0,341.0,60.0,3.4,2.0,1.9476787399369366,3.4913616938342726,24.5
+Animalia,Chordata,Mammalia,Cetacea,Balaenidae,Balaena,mysticetus,Bowhead whale,8212.0,8212.0,396.0,1.0,0.3,5.954242509439325,8.0,211.0
+Animalia,Chordata,Mammalia,Cetacea,Balaenidae,Eubalaena,australis,Southern right whale,3285.0,3285.0,365.0,1.0,0.3,5.959041392321094,7.653212513775344,70.0
+Animalia,Chordata,Mammalia,Cetacea,Balaenidae,Eubalaena,glacialis,North atlantic right whale,2920.0,2920.0,350.0,1.0,0.29,5.899999871665804,7.361727836017593,67.0
+Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,acutorostrata,Common minke whale,2740.0,2740.0,312.0,1.0,1.0,5.505149978319906,6.8750612633917,50.0
+Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,borealis,Sei whale,3652.0,3652.0,345.0,1.0,0.5,5.832508912706237,7.301029995663981,74.0
+Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,edeni,Bryde's whale,3104.0,3104.0,376.0,1.0,0.5,6.0,7.204119982655925,72.0
+Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,musculus,Blue whale,1827.0,1827.0,350.0,1.0,0.4,6.301029995663981,8.133538908370218,110.0
+Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,physalus,Fin whale,2701.0,2864.0,342.0,1.0,0.4,6.2552725051033065,7.845098040014257,114.0
+Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Megaptera,novaeangliae,Humpback whale,1643.0,1643.0,342.0,1.0,0.5,6.1303337684950066,7.477121254719663,95.0
+Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Globicephala,macrorhynchus,Short-finned pilot whale,3470.0,5332.0,452.0,1.0,0.2,4.778151250383644,6.342422680822207,63.0
+Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Globicephala,melas,Long-finned pilot whale,2470.0,4380.0,450.0,1.0,0.2,5.040075963272324,6.02530586526477,60.0
+Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Lagenorhynchus,acutus,Atlantic white-sided dolphin,2231.0,2231.0,316.0,1.25,0.4,4.380211241711606,5.318063334962762,27.0
+Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Lagenorhynchus,obliquidens,Pacific white-sided dolphin,3832.0,3832.0,320.0,1.0,0.4,4.146128035678238,5.012837224705172,46.0
+Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Orcaella,brevirostris,Irrawaddy dolphin,1826.0,1826.0,426.0,1.0,0.35,4.089905111439398,5.278753600952829,30.0
+Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Orcinus,orca,Killer whale,3780.0,4930.0,435.0,1.0,0.2,5.2552725051033065,6.600700696065237,90.0
+Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Stenella,attenuata,Pantropical spotted dolphin,2983.0,3956.0,345.0,1.0,0.3,4.0,5.051152522447381,46.0
+Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Stenella,coeruleoalba,Striped dolphin,2834.0,3025.0,350.0,1.5,0.3,4.0,5.051152522447381,57.5
+Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Tursiops,truncatus,Bottlenosed dolphin,2831.0,3689.0,365.0,1.0,0.5,4.28668096935493,5.301029995663981,51.6
+Animalia,Chordata,Mammalia,Cetacea,Eschrichtiidae,Eschrichtius,robustus,Gray whale,2922.0,2922.0,395.0,1.0,0.5,5.698970004336019,7.45484486000851,77.0
+Animalia,Chordata,Mammalia,Cetacea,Monodontidae,Delphinapterus,leucas,Beluga,1644.0,2283.0,416.0,1.0,0.3,4.819543935541868,6.155336037465061,40.0
+Animalia,Chordata,Mammalia,Cetacea,Monodontidae,Monodon,monoceros,Narwhal,2191.0,2922.0,450.0,1.0,0.3,4.903089986991944,6.096910013008056,50.0
+Animalia,Chordata,Mammalia,Cetacea,Phocoenidae,Neophocaena,phocaenoides,Finless porpoise,2190.0,1460.0,320.0,1.0,0.5,3.845098040014257,4.511883360978874,33.0
+Animalia,Chordata,Mammalia,Cetacea,Phocoenidae,Phocoena,phocoena,Harbor porpoise,1055.0,1461.0,320.0,1.0,1.0,3.845098040014257,4.720159303405957,20.4
+Animalia,Chordata,Mammalia,Cetacea,Physeteridae,Physeter,macrocephalus,Sperm whale,2922.0,3650.0,502.0,1.0,0.2,6.0,7.45484486000851,77.0
+Animalia,Chordata,Mammalia,Chiroptera,Hipposideridae,Hipposideros,fulvus,Fulvus roundleaf bat,563.0,563.0,158.0,1.0,1.0,0.3692158574101428,0.8450980400142568,13.0
+Animalia,Chordata,Mammalia,Chiroptera,Megadermatidae,Megaderma,lyra,Greater false vampire bat,540.0,450.0,150.0,1.0,1.0,0.8750612633917001,1.586587304671755,14.0
+Animalia,Chordata,Mammalia,Chiroptera,Miniopteridae,Miniopterus,schreibersii,Schreibers's long-fingered bat,577.0,730.0,100.0,1.0,1.0,0.4471580313422192,1.1139433523068367,22.0
+Animalia,Chordata,Mammalia,Chiroptera,Molossidae,Tadarida,brasiliensis,Brazilian free-tailed bat,273.0,547.0,78.0,1.0,1.0,0.4471580313422192,1.0969100130080565,12.0
+Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Artibeus,jamaicensis,Jamaican fruit-eating bat,289.0,289.0,76.0,1.0,2.0,0.7708520116421442,1.6253124509616739,19.2
+Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Carollia,perspicillata,Seba's short-tailed bat,258.0,258.0,95.0,1.0,2.0,0.6989700043360189,1.1760912590556813,17.0
+Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Desmodus,rotundus,Vampire bat,285.0,285.0,189.0,1.0,2.0,0.9030899869919435,1.5211380837040362,29.2
+Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Macrotus,californicus,California leaf-nosed bat,120.0,120.0,270.0,1.0,2.0,0.4014005407815441,1.0644579892269184,17.0
+Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Cynopterus,brachyotis,Lesser short-nosed fruit bat,213.0,213.0,112.0,1.0,2.0,0.7923916894982539,1.6532125137753437,10.1
+Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Cynopterus,sphinx,Greater short-nosed fruit bat,150.0,525.0,120.0,1.2,2.0,1.0413926851582251,1.8750612633917,10.0
+Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Haplonycteris,fischeri,Philippine pygmy fruit bat,120.0,315.0,90.0,1.0,1.0,0.437750562820388,1.255272505103306,10.0
+Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Pteropus,giganteus,Indian flying fox,365.0,365.0,145.0,1.0,1.0,1.6532125137753437,3.070037866607755,40.0
+Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Pteropus,poliocephalus,Gray-headed flying fox,540.0,540.0,190.0,1.0,1.0,1.9030899869919435,2.829303772831025,23.6
+Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Rousettus,aegyptiacus,Egyptian rousette,365.0,365.0,116.0,1.0,2.0,1.3234583668494677,2.0969100130080562,22.9
+Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Rousettus,leschenaultii,Leschenault's rousette,150.0,455.0,115.0,1.0,2.0,1.0791812460476249,2.034427905025403,14.0
+Animalia,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus,euryale,Mediterranean horseshoe bat,821.0,821.0,90.0,1.0,1.0,0.5899496013257077,0.9138138523837167,13.0
+Animalia,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus,ferrumequinum,Greater horseshoe bat,730.0,730.0,80.0,1.0,1.0,0.7634279935629372,1.359361102738486,30.5
+Animalia,Chordata,Mammalia,Chiroptera,Rhinolophidae,Rhinolophus,hipposideros,Lesser horseshoe bat,500.0,471.0,67.0,1.0,1.0,0.3222192947339193,0.6627578316815741,29.4
+Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Antrozous,pallidus,Pallid bat,365.0,365.0,62.0,2.0,1.0,0.4913616938342727,1.3180633349627615,14.8
+Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Eptesicus,fuscus,Big brown bat,547.0,730.0,35.0,2.0,1.0,0.5910646070264992,1.3617278360175928,19.0
+Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Lasionycteris,noctivagans,Silver-haired bat,152.0,152.0,55.0,2.0,1.0,0.22271647114758325,1.0,12.0
+Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,daubentonii,Daubenton's bat,730.0,730.0,54.0,1.0,1.0,0.32014628611105395,0.9294189257142927,28.0
+Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,lucifugus,Little brown bat,210.0,210.0,55.0,1.0,1.0,0.292256071356476,1.0,34.0
+Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,myotis,Mouse-eared bat,502.0,502.0,65.0,1.0,1.0,0.7708520116421442,1.455606112581867,37.1
+Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,nigricans,Black myotis,98.0,98.0,55.0,1.0,2.0,0.0,0.6232492903979004,7.0
+Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,velifer,Cave myotis,365.0,365.0,65.0,1.0,1.0,0.505149978319906,1.0043213737826426,11.3
+Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Nyctalus,noctula,Noctule,90.0,455.0,60.0,1.5,1.0,0.7299742856995556,1.443262987458695,12.0
+Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Perimyotis,subflavus,Eastern pipistrelle,212.0,212.0,44.0,2.0,1.0,-0.026872146400301365,0.8750612633917001,14.8
+Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Pipistrellus,pipistrellus,Common pipistrelle,456.0,456.0,42.0,1.2,1.0,0.05115252244738129,0.6989700043360189,16.6
+Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Plecotus,auritus,Brown big-eared bat,365.0,365.0,65.0,1.33,1.0,0.32014628611105395,0.8920946026904804,30.0
+Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Chaetophractus,villosus,Large hairy armadillo,273.0,273.0,67.0,2.0,1.0,2.1072099696478683,3.4771212547196626,25.2
+Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus,novemcinctus,Nine-banded armadillo,365.0,365.0,133.0,4.0,1.0,1.8195439355418688,3.7403626894942437,22.3
+Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Euphractus,sexcinctus,Six-banded armadillo,274.0,274.0,68.0,2.0,1.0,2.0211892990699383,3.6857417386022635,22.1
+Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Priodontes,maximus,Giant armadillo,320.0,320.0,122.0,1.5,1.0,1.7934411329776636,4.518513939877887,15.0
+Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Tolypeutes,matacus,Southern three-banded armadillo,320.0,320.0,120.0,1.0,1.0,1.9030899869919435,3.1760912590556813,36.8
+Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Zaedyus,pichiy,Pichi,320.0,320.0,60.0,2.0,1.0,2.0211892990699383,3.1760912590556813,12.5
+Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Antechinus,stuartii,Brown antechinus,285.0,285.0,30.0,7.0,1.0,-1.7958800173440752,1.4393326938302626,5.4
+Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Dasyuroides,byrnei,Kowari,238.0,216.0,33.0,6.0,2.0,-1.5686362358410126,2.0211892990699383,8.0
+Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Dasyurus,geoffroii,Western quoll,365.0,365.0,16.0,6.0,1.0,-1.958607314841775,2.949390006644913,6.2
+Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Dasyurus,viverrinus,Eastern quoll,335.0,335.0,20.0,6.0,1.0,-1.6989700043360187,3.037426497940624,6.8
+Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Pseudantechinus,macdonnellensis,Fat-tailed marsupial mouse,350.0,350.0,43.0,6.0,1.0,-1.9100948885606022,1.5118833609788744,7.0
+Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Sarcophilus,harrisii,Tasmanian devil,730.0,730.0,26.0,3.0,1.0,-1.6289321377282637,3.8129133566428557,13.0
+Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Sminthopsis,crassicaudata,Fat-tailed dunnart,115.0,159.0,14.0,7.0,2.0,-2.0,1.1760912590556813,5.0
+Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Sminthopsis,macroura,Stripe-faced dunnart,119.0,159.0,12.0,4.0,2.0,-2.0,1.3010299956639813,4.9
+Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Caluromys,philander,Bare-tailed woolly opossum,304.0,304.0,24.0,4.5,2.0,-0.6989700043360187,2.5440680443502757,8.9
+Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Didelphis,marsupialis,Southern opossum,178.0,240.0,12.0,6.0,2.0,-0.6989700043360187,3.184691430817599,4.2
+Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Didelphis,virginiana,Virginia opossum,184.0,243.0,12.0,15.0,2.0,-0.8326826652518239,3.4771212547196626,6.6
+Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Marmosa,robinsoni,Robinson's mouse opossum,279.0,365.0,14.0,10.0,1.5,-1.0,1.8750612633917,5.0
+Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Monodelphis,domestica,Gray short-tailed opossum,122.0,122.0,15.0,9.0,4.0,-1.0,2.0211892990699383,5.1
+Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,agilis,Agile wallaby,365.0,425.0,29.0,1.0,1.8,-0.1979107421182673,4.204119982655925,16.9
+Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,antilopinus,Antilopine wallaroo,802.0,802.0,34.0,1.0,1.0,-0.15304467498017607,4.694605198933568,19.8
+Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,eugenii,Tammar wallaby,274.0,730.0,28.0,1.0,1.0,-0.36754270781527576,3.8129133566428557,15.1
+Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,fuliginosus,Western gray kangaroo,670.0,880.0,30.0,1.0,1.0,-0.029499706353798723,4.451018452155457,23.2
+Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,giganteus,Eastern gray kangaroo,639.0,1290.0,36.0,1.0,1.0,-0.046399755974790985,4.694605198933568,25.0
+Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,parma,Parma wallaby,424.0,620.0,34.0,1.0,1.3,-0.2952490957093289,3.6283889300503116,15.9
+Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,robustus,Wallaroo,547.0,670.0,32.0,1.0,1.0,-0.15304467498017607,4.477121254719663,22.0
+Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,rufogriseus,Red-necked wallaby,395.0,608.0,29.0,1.0,1.0,-0.22329881601158919,4.209515014542631,15.2
+Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,rufus,Red kangaroo,517.0,806.0,33.0,1.0,1.0,-0.10568393731556154,4.740362689494244,25.0
+Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Petrogale,xanthopus,Ringtailed rock wallaby,541.0,541.0,31.0,1.1,1.0,-0.3010299956639812,3.7781512503836434,14.4
+Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Setonix,brachyurus,Quokka,252.0,389.0,26.0,1.0,1.4,-0.393618634889395,3.5440680443502757,13.8
+Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Thylogale,billardierii,Tasmanian pademelon,435.0,435.0,29.0,1.0,1.0,-0.37675070960209955,3.6989700043360187,8.8
+Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Wallabia,bicolor,Swamp wallaby,426.0,426.0,36.0,1.0,1.4,-0.21467016498923297,4.165095874754218,16.8
+Animalia,Chordata,Mammalia,Diprotodontia,Petauridae,Petaurus,breviceps,Sugar glider,236.0,456.0,16.0,2.0,1.3,-0.712198270069774,2.041392685158225,17.8
+Animalia,Chordata,Mammalia,Diprotodontia,Phalangeridae,Trichosurus,vulpecula,Brush-tailed possum,315.0,730.0,17.0,1.0,1.5,-0.5543957967264024,3.379305517750582,15.9
+Animalia,Chordata,Mammalia,Diprotodontia,Phascolarctidae,Phascolarctos,cinereus,Koala,646.0,1095.0,31.0,1.0,1.0,-0.44369749923271273,3.9684829485539352,22.1
+Animalia,Chordata,Mammalia,Diprotodontia,Potoroidae,Bettongia,penicillata,Woylie,180.0,180.0,18.0,1.0,3.0,-0.5376020021010439,3.1760912590556813,18.8
+Animalia,Chordata,Mammalia,Diprotodontia,Potoroidae,Potorous,tridactylus,Long-nosed potoroo,400.0,400.0,30.0,1.0,2.0,-0.4775557664936801,3.155336037465062,14.5
+Animalia,Chordata,Mammalia,Diprotodontia,Vombatidae,Lasiorhinus,latifrons,Southern hairy-nosed wombat,547.0,547.0,21.0,1.0,1.0,-0.3010299956639812,4.4065401804339555,29.9
+Animalia,Chordata,Mammalia,Diprotodontia,Vombatidae,Vombatus,ursinus,Coarse-haired wombat,730.0,730.0,27.0,1.0,1.0,-0.3010299956639812,4.4065401804339555,30.0
+Animalia,Chordata,Mammalia,Erinaceomorpha,Erinaceidae,Atelerix,albiventris,Four-toed hedgehog,84.0,84.0,35.0,6.0,1.0,1.0,2.6989700043360187,11.4
+Animalia,Chordata,Mammalia,Erinaceomorpha,Erinaceidae,Erinaceus,concolor,Eastern European hedgehog,213.0,213.0,35.0,4.5,1.5,1.3424226808222062,2.8567288903828825,7.0
+Animalia,Chordata,Mammalia,Erinaceomorpha,Erinaceidae,Erinaceus,europaeus,Western European hedgehog,253.0,253.0,30.0,1.5,1.6,1.167317334748176,2.8750612633917,11.7
+Animalia,Chordata,Mammalia,Erinaceomorpha,Erinaceidae,Hemiechinus,auritus,Long-eared hedgehog,213.0,213.0,39.0,4.0,1.0,1.0,2.534026106056135,7.6
+Animalia,Chordata,Mammalia,Hyracoidea,Procaviidae,Dendrohyrax,arboreus,Tree hyrax,365.0,365.0,229.0,2.0,1.0,2.57978359661681,3.4771212547196626,13.6
+Animalia,Chordata,Mammalia,Hyracoidea,Procaviidae,Procavia,capensis,Rock hyrax,500.0,500.0,215.0,3.0,1.0,2.311753861055754,3.5563025007672873,14.8
+Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Lepus,californicus,Black-tailed jackrabbit,243.0,243.0,44.0,1.0,3.7,1.9260335966788447,3.620656479819621,11.8
+Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Lepus,europaeus,European hare,236.0,236.0,42.0,2.0,3.8,2.077985291029502,3.620656479819621,10.7
+Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Lepus,timidus,Mountain hare,266.0,266.0,50.0,2.0,2.1,2.0331421770606246,3.620656479819621,18.0
+Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Oryctolagus,cuniculus,European rabbit,730.0,730.0,30.0,5.0,4.3,1.6532125137753437,3.255272505103306,9.0
+Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Sylvilagus,audubonii,Audubon's cottontail rabbit,164.0,107.0,29.0,3.0,5.0,1.5378190950732742,2.9542425094393248,7.8
+Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Sylvilagus,floridanus,Eastern cottontail,123.0,123.0,30.0,5.0,3.9,1.6020599913279623,3.060697840353612,9.8
+Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Sylvilagus,transitionalis,New England cottontail,120.0,120.0,28.0,4.8,2.5,1.4771212547196624,2.955495329184127,9.3
+Animalia,Chordata,Mammalia,Lagomorpha,Ochotonidae,Ochotona,princeps,American pika,347.0,347.0,30.0,3.0,2.2,0.9542425094393249,2.0,7.0
+Animalia,Chordata,Mammalia,Macroscelidea,Macroscelididae,Elephantulus,intufi,Long-eared elephant shrew,335.0,183.0,52.0,1.6,5.2,1.0,1.7160033436347992,9.3
+Animalia,Chordata,Mammalia,Macroscelidea,Macroscelididae,Elephantulus,rufescens,Rufous elephant shrew,50.0,50.0,61.0,1.0,5.2,1.0253058652647702,1.7634279935629373,7.9
+Animalia,Chordata,Mammalia,Macroscelidea,Macroscelididae,Macroscelides,proboscideus,Short-eared elephant shrew,44.0,44.0,65.0,1.6,4.85,0.8450980400142568,1.6020599913279623,8.7
+Animalia,Chordata,Mammalia,Macroscelidea,Macroscelididae,Rhynchocyon,chrysopygus,Golden-rumped elephant shrew,38.0,38.0,42.0,1.0,4.5,1.9030899869919435,2.7323937598229686,11.0
+Animalia,Chordata,Mammalia,Monotremata,Tachyglossidae,Tachyglossus,aculeatus,Short-beaked echidna,548.0,548.0,22.0,1.0,1.0,-0.42136079003192767,3.5440680443502757,49.5
+Animalia,Chordata,Mammalia,Peramelemorphia,Peramelidae,Isoodon,macrourus,Northern brown bandicoot,122.0,200.0,12.0,4.0,2.7,-0.7251496799833352,3.2041199826559246,6.8
+Animalia,Chordata,Mammalia,Peramelemorphia,Peramelidae,Isoodon,obesulus,Southern brown bandicoot,210.0,210.0,15.0,2.73,2.2,-0.4559319556497244,2.845098040014257,6.5
+Animalia,Chordata,Mammalia,Peramelemorphia,Peramelidae,Perameles,gunnii,Eastern barred bandicoot,91.0,152.0,12.0,2.0,3.8,-0.6020599913279624,2.884228769632604,6.1
+Animalia,Chordata,Mammalia,Peramelemorphia,Peramelidae,Perameles,nasuta,Long-nosed bandicoot,135.0,135.0,12.0,2.7,3.8,-0.6108339156354675,2.9339931638312424,5.6
+Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,asinus,African wild ass,708.0,1005.0,359.0,1.0,0.6,4.477121254719663,5.217478680006463,47.0
+Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,caballus,Horse,914.0,973.0,337.0,1.0,1.0,4.57978359661681,5.477121254719663,57.0
+Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,grevyi,Grevy's zebra,1278.0,1461.0,406.0,1.0,0.5,4.6020599913279625,5.5843312243675305,31.0
+Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,quagga,Quagga,900.0,900.0,365.0,1.0,0.6,4.505149978319906,5.447158031342219,38.0
+Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,zebra,Mountain zebra,1009.0,1279.0,362.0,1.0,0.6,4.544068044350276,5.471291711058939,33.2
+Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,simum,White rhinoceros,1643.0,1643.0,515.0,1.0,0.4,4.720159303405957,6.337459261290656,45.0
+Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Dicerorhinus,sumatrensis,Sumatran rhinoceros,2738.0,2738.0,236.0,1.0,0.3,4.361727836017593,6.1003705451175625,32.8
+Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Diceros,bicornis,Black rhinoceros,1826.0,2254.0,474.0,1.0,0.4,4.562292864456475,6.041392685158225,49.0
+Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Rhinoceros,unicornis,Indian rhinoceros,1678.0,2557.0,479.0,1.0,0.3,4.763427993562937,6.204751963945424,43.5
+Animalia,Chordata,Mammalia,Perissodactyla,Tapiridae,Acrocodia,indica,Malayan tapir,1095.0,1095.0,392.0,1.0,0.5,3.8129133566428557,5.3979400086720375,36.5
+Animalia,Chordata,Mammalia,Perissodactyla,Tapiridae,Tapirus,terrestris,Brazilian tapir,1095.0,1095.0,398.0,1.0,0.6,3.7781512503836434,5.3979400086720375,39.6
+Animalia,Chordata,Mammalia,Pilosa,Megalonychidae,Choloepus,didactylus,Southern two-toed sloth,1279.0,1644.0,279.0,1.0,1.0,2.5514499979728753,3.7958800173440754,36.8
+Animalia,Chordata,Mammalia,Pilosa,Megalonychidae,Choloepus,hoffmanni,Hoffmann's two-toed sloth,730.0,1095.0,350.0,1.0,0.7,2.60422605308447,3.7958800173440754,41.0
+Animalia,Chordata,Mammalia,Pilosa,Myrmecophagidae,Myrmecophaga,tridactyla,Giant anteater,1186.0,1186.0,184.0,1.0,1.2,3.2041199826559246,4.45484486000851,31.0
+Animalia,Chordata,Mammalia,Primates,Aotidae,Aotus,trivirgatus,Northern night monkey,821.0,730.0,142.0,1.0,1.4,1.9469432706978254,2.9030899869919438,30.1
+Animalia,Chordata,Mammalia,Primates,Atelidae,Alouatta,caraya,Black howler monkey,1167.0,928.0,187.0,1.0,1.0,2.2730012720637376,3.737391449978478,32.4
+Animalia,Chordata,Mammalia,Primates,Atelidae,Alouatta,palliata,Mantled howler monkey,1095.0,1278.0,186.0,1.0,0.6,2.611723308007342,3.845098040014257,24.0
+Animalia,Chordata,Mammalia,Primates,Atelidae,Alouatta,seniculus,Red howler monkey,1475.0,1475.0,190.0,1.0,0.7,2.419955748489758,3.815790195182804,25.0
+Animalia,Chordata,Mammalia,Primates,Atelidae,Ateles,fusciceps,Brown-headed spider monkey,1515.0,1826.0,227.0,1.0,0.5,2.6020599913279625,3.845098040014257,46.0
+Animalia,Chordata,Mammalia,Primates,Atelidae,Ateles,geoffroyi,Central American spider monkey,1825.0,1826.0,232.0,1.0,0.3,2.629409599102719,3.861385040442465,47.1
+Animalia,Chordata,Mammalia,Primates,Atelidae,Ateles,paniscus,Black spider monkey,1516.0,1280.0,229.0,1.0,0.5,2.655618583541222,3.8969393722521906,46.0
+Animalia,Chordata,Mammalia,Primates,Atelidae,Lagothrix,lagothricha,Humboldt's woolly monkey,2555.0,1520.0,223.0,1.0,0.5,2.4771212547196626,3.8836614351536176,32.0
+Animalia,Chordata,Mammalia,Primates,Callitrichidae,Callimico,goeldii,Goeldi's monkey,365.0,395.0,153.0,1.0,1.2,1.6825962914605532,2.7442929831226763,22.2
+Animalia,Chordata,Mammalia,Primates,Callitrichidae,Callithrix,jacchus,White-tufted-ear marmoset,477.0,382.0,144.0,2.0,2.0,1.423245873936808,2.4068806700491248,22.8
+Animalia,Chordata,Mammalia,Primates,Callitrichidae,Cebuella,pygmaea,Pygmy marmoset,684.0,638.0,125.0,2.0,1.6,1.2041199826559248,2.093421685162235,18.6
+Animalia,Chordata,Mammalia,Primates,Callitrichidae,Leontocebus,fuscicollis,Saddlebacked tamarin,546.0,730.0,147.0,1.8,1.0,1.6009728956867482,2.659440781870318,24.9
+Animalia,Chordata,Mammalia,Primates,Callitrichidae,Leontocebus,nigricollis,Black-mantled tamarin,850.0,850.0,140.0,1.8,2.9,1.6384892569546374,2.715334683792313,20.2
+Animalia,Chordata,Mammalia,Primates,Callitrichidae,Leontopithecus,rosalia,Golden lion tamarin,547.0,730.0,128.0,2.0,1.8,1.7427251313046983,2.8159096508867747,31.6
+Animalia,Chordata,Mammalia,Primates,Callitrichidae,Mico,argentatus,Silvery marmoset,304.0,334.0,144.0,2.0,3.2,1.545307116465824,2.535547279176668,16.5
+Animalia,Chordata,Mammalia,Primates,Callitrichidae,Mico,humeralifer,Tassel-eared marmoset,304.0,334.0,144.0,2.0,3.2,1.5378190950732742,2.5512059437479064,15.0
+Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,geoffroyi,Geoffroy's tamarin,548.0,548.0,142.0,2.0,1.2,1.6630409748939743,2.6983615660551097,20.5
+Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,imperator,Emperor tamarin,546.0,730.0,145.0,2.0,1.2,1.6720978579357175,2.7147487607250596,23.7
+Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,midas,Midas tamarin,608.0,608.0,127.0,2.0,1.4,1.6020599913279623,2.743352951409556,21.0
+Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,mystax,Black-chested mustached tamarin,486.0,540.0,145.0,2.0,1.2,1.6711728427150832,2.7351995484223135,20.0
+Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,oedipus,Cotton-top tamarin,548.0,550.0,178.0,1.9,1.0,1.5950550897593039,2.6488477083728936,26.2
+Animalia,Chordata,Mammalia,Primates,Cebidae,Cebus,albifrons,White-fronted capuchin,1310.0,1310.0,158.0,1.0,0.7,2.367355921026019,3.3922571613416745,40.4
+Animalia,Chordata,Mammalia,Primates,Cebidae,Cebus,capucinus,White-faced capuchin,1505.0,2921.0,162.0,1.0,0.5,2.361727836017593,3.4240645254174877,54.0
+Animalia,Chordata,Mammalia,Primates,Cebidae,Saimiri,sciureus,South American squirrel monkey,1003.0,1826.0,161.0,1.0,1.0,2.0293837776852097,2.9661417327390325,30.2
+Animalia,Chordata,Mammalia,Primates,Cebidae,Sapajus,apella,Brown capuchin,1703.0,1703.0,158.0,1.5,0.6,2.379668034033654,3.4220149959794637,46.0
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Cercopithecus,ascanius,Black-cheeked white-nosed monkey,1642.0,1642.0,147.0,1.0,0.7,2.569373909615046,3.568788212315347,31.2
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Cercopithecus,cephus,Moustached monkey,1460.0,1460.0,172.0,1.0,0.4,2.531478917042255,3.554489160003819,36.0
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Cercopithecus,mitis,Blue monkey,1673.0,1673.0,132.0,1.0,0.5,2.563955464995813,3.9542425094393248,37.8
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Cercopithecus,neglectus,De Brazza's monkey,1611.0,2555.0,177.0,1.0,1.0,2.4149733479708178,3.7741518589547103,30.8
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Cercopithecus,nictitans,White-nosed guenon,1460.0,1460.0,172.0,1.0,0.5,2.6085260335771943,3.7375901662857216,31.0
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Cercopithecus,pogonias,Crowned guenon,1460.0,1460.0,165.0,1.0,0.5,2.531478917042255,3.5538830266438746,27.0
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Chlorocebus,aethiops,Vervet,1034.0,1825.0,162.0,1.0,1.0,2.496929648073215,3.749736315569061,30.8
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Colobus,guereza,Guereza,1461.0,2192.0,175.0,1.0,1.0,2.5996647787884166,3.9978230807457256,35.0
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Colobus,polykomos,King colobus,1642.0,730.0,185.0,1.0,0.6,2.850339854583479,3.978864984347657,33.9
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Erythrocebus,patas,Patas monkey,956.0,1400.0,167.0,1.0,1.0,2.7028611705729295,3.88930170250631,28.3
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Lophocebus,albigena,Gray-cheeked mangabey,1460.0,1460.0,181.0,1.0,0.4,2.6283889300503116,3.9692994014258773,36.0
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,arctoides,Stump-tailed macaque,1186.0,2099.0,177.0,1.0,0.6,2.680335513414563,3.9673139182870836,29.2
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,fascicularis,Long-tailed macaque,1238.0,1544.0,165.0,1.0,0.9,2.505149978319906,3.803627795344815,39.0
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,fuscata,Japanese macaque,1483.0,1369.0,174.0,1.5,0.5,2.6954816764901977,3.9485352161613654,38.5
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,maura,Moor macaque,1825.0,1825.0,165.0,1.0,0.6,2.590507462008583,3.746244871720198,33.0
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,mulatta,Rhesus monkey,1231.0,2007.0,165.0,1.0,1.0,2.6665179805548807,3.9156636035057732,40.0
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,nemestrina,Pigtail macaque,1125.0,1095.0,172.0,1.0,0.8,2.6651117370750512,3.8983137230254115,37.6
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,nigra,Celebes crested macaque,1490.0,1490.0,176.0,1.0,0.7,2.663700925389648,3.9011857801371503,34.0
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,radiata,Bonnet macaque,1295.0,1795.0,161.0,1.0,1.0,2.595496221825574,3.8296253533580495,30.0
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,silenus,Liontail macaque,1429.0,2511.0,176.0,1.0,0.7,2.60959440922522,3.896250562461638,40.0
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,sinica,Toque macaque,1460.0,1460.0,152.0,1.0,0.7,2.649334858712142,3.640481436970422,29.3
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,sylvanus,Barbary macaque,1399.0,2007.0,164.0,1.5,1.0,2.6532125137753435,4.036429265626675,29.1
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Mandrillus,leucophaeus,Drill,1277.0,1277.0,179.0,1.0,0.8,2.887617300335736,4.261262868792493,39.0
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Mandrillus,sphinx,Mandrill,1186.0,1186.0,173.0,1.0,0.8,2.787460474518415,4.361727836017593,40.0
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Miopithecus,talapoin,Talapoin,1395.0,2008.0,169.0,1.0,1.0,2.3092041796704077,3.1412929600815933,27.7
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Nasalis,larvatus,Proboscis monkey,1460.0,1460.0,166.0,1.25,0.7,2.690196080028514,4.164873102509321,25.1
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Papio,hamadryas,Hamadryas baboon,1514.0,1762.0,171.0,1.0,0.8,2.910624404889201,4.2552725051033065,37.5
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Pygathrix,nemaeus,Douc langur,1460.0,1460.0,171.0,1.0,1.0,2.5949447366950835,3.9876662649262746,26.0
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Semnopithecus,entellus,Hanuman langur,1162.0,1886.0,192.0,1.0,0.7,2.6989700043360187,4.130864248745398,29.0
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Semnopithecus,vetulus,Purple-faced leaf monkey,1278.0,1278.0,211.0,1.0,0.4,2.6358153728975235,3.85014365750782,26.1
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Theropithecus,gelada,Gelada baboon,1391.0,2190.0,168.0,1.0,0.5,2.6665179805548807,4.209515014542631,36.0
+Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Trachypithecus,obscurus,Dusky leaf monkey,1461.0,1461.0,145.0,1.0,0.5,2.4771212547196626,3.850033257689769,33.9
+Animalia,Chordata,Mammalia,Primates,Cheirogaleidae,Cheirogaleus,major,Greater dwarf lemur,365.0,365.0,65.0,2.2,1.0,1.2576785748691846,2.59659709562646,13.4
+Animalia,Chordata,Mammalia,Primates,Cheirogaleidae,Cheirogaleus,medius,Fat-tailed dwarf lemur,365.0,365.0,61.0,22.2,1.0,1.2787536009528289,2.57978359661681,29.0
+Animalia,Chordata,Mammalia,Primates,Cheirogaleidae,Microcebus,murinus,Gray mouse lemur,243.0,243.0,61.0,2.0,1.0,0.7781512503836436,1.8115750058705933,18.2
+Animalia,Chordata,Mammalia,Primates,Cheirogaleidae,Mirza,coquereli,Giant mouse lemur,312.0,275.0,89.0,1.8,1.0,1.1702617153949575,2.4930395883176515,17.4
+Animalia,Chordata,Mammalia,Primates,Daubentoniidae,Daubentonia,madagascariensis,Aye-aye,882.0,882.0,165.0,1.0,1.0,2.037426497940624,3.3574583856450357,32.3
+Animalia,Chordata,Mammalia,Primates,Galagidae,Galago,moholi,South African galago,146.0,372.0,124.0,1.4,2.0,1.089905111439398,2.228400358703005,16.6
+Animalia,Chordata,Mammalia,Primates,Galagidae,Galago,senegalensis,Senegal galago,240.0,300.0,126.0,1.5,2.0,1.0863598306747482,2.2837533833325265,17.1
+Animalia,Chordata,Mammalia,Primates,Galagidae,Galagoides,demidoff,Demidoff's galago,256.0,270.0,111.0,1.1,1.0,0.8750612633917001,1.7781512503836436,13.4
+Animalia,Chordata,Mammalia,Primates,Galagidae,Otolemur,crassicaudatus,Greater galago,495.0,639.0,130.0,1.5,1.0,1.6354837468149122,3.0392157659039505,22.7
+Animalia,Chordata,Mammalia,Primates,Galagidae,Otolemur,garnettii,Small-eared galago,600.0,600.0,132.0,1.0,1.4,1.662757831681574,3.113943352306837,20.0
+Animalia,Chordata,Mammalia,Primates,Hominidae,Gorilla,gorilla,Gorilla,2829.0,4015.0,256.0,1.0,0.3,3.3141622717099843,5.14563762655143,60.1
+Animalia,Chordata,Mammalia,Primates,Hominidae,Homo,sapiens,Human,4745.0,5110.0,280.0,1.0,0.3,3.520155886944864,4.7926367865639214,122.5
+Animalia,Chordata,Mammalia,Primates,Hominidae,Pan,paniscus,Pygmy chimpanzee or bonobo,3194.0,3194.0,232.0,1.0,0.2,3.124178055474675,4.601244924810521,55.0
+Animalia,Chordata,Mammalia,Primates,Hominidae,Pan,troglodytes,Chimpanzee,3376.0,2920.0,229.0,1.0,0.2,3.26030994579492,4.653053243263934,59.4
+Animalia,Chordata,Mammalia,Primates,Hominidae,Pongo,pygmaeus,Orangutan,2555.0,2555.0,249.0,1.0,0.2,3.239674787646781,4.8093913508099755,59.0
+Animalia,Chordata,Mammalia,Primates,Hylobatidae,Hylobates,lar,White-handed gibbon,2555.0,1825.0,217.0,1.0,0.5,2.4874212113594742,3.833147111912785,56.0
+Animalia,Chordata,Mammalia,Primates,Hylobatidae,Symphalangus,syndactylus,Siamang,2190.0,2190.0,231.0,1.0,0.4,2.7134905430939424,4.037426497940624,43.0
+Animalia,Chordata,Mammalia,Primates,Indriidae,Propithecus,diadema,Diademed sifaka,1186.0,913.0,157.0,1.0,0.5,2.161368002234975,3.7442929831226763,21.0
+Animalia,Chordata,Mammalia,Primates,Indriidae,Propithecus,verreauxi,Verreaux's sifaka,912.0,912.0,148.0,1.0,1.0,1.8588378514285855,3.6989700043360187,31.0
+Animalia,Chordata,Mammalia,Primates,Lemuridae,Eulemur,coronatus,Crowned lemur,608.0,608.0,126.0,1.24,1.0,1.845098040014257,3.216165902285993,27.0
+Animalia,Chordata,Mammalia,Primates,Lemuridae,Eulemur,fulvus,Brown lemur,509.0,633.0,118.0,1.1,2.0,1.863322860120456,3.395326393069351,35.5
+Animalia,Chordata,Mammalia,Primates,Lemuridae,Eulemur,macaco,Black lemur,540.0,266.0,120.0,1.4,1.0,1.8457180179666586,3.392169149489736,37.5
+Animalia,Chordata,Mammalia,Primates,Lemuridae,Eulemur,mongoz,Mongoose lemur,650.0,1065.0,120.0,1.0,1.0,1.792391689498254,3.1917303933628562,36.2
+Animalia,Chordata,Mammalia,Primates,Lemuridae,Eulemur,rubriventer,Red-bellied lemur,646.0,1350.0,120.0,1.0,1.0,1.8836614351536176,3.340741474989978,31.7
+Animalia,Chordata,Mammalia,Primates,Lemuridae,Hapalemur,griseus,Bamboo lemur,880.0,1346.0,145.0,1.1,1.1,1.7024305364455252,3.005395031886706,23.3
+Animalia,Chordata,Mammalia,Primates,Lemuridae,Lemur,catta,Ring-tailed lemur,595.0,912.0,135.0,1.1,0.9,1.8488047010518038,3.4073909044707316,37.3
+Animalia,Chordata,Mammalia,Primates,Lemuridae,Varecia,rubra,Red ruffed lemur,609.0,650.0,98.0,2.2,1.0,2.040325379199724,3.5564593010207437,37.5
+Animalia,Chordata,Mammalia,Primates,Lemuridae,Varecia,variegata,Ruffed lemur,605.0,649.0,98.0,1.9,1.0,2.0300732307125178,3.541866182844564,39.4
+Animalia,Chordata,Mammalia,Primates,Lorisidae,Arctocebus,calabarensis,Calabar angwantibo,279.0,270.0,133.0,1.0,1.5,1.416640507338281,2.41077723337721,13.0
+Animalia,Chordata,Mammalia,Primates,Lorisidae,Loris,tardigradus,Slender loris,380.0,365.0,166.0,1.3,1.5,1.0413926851582251,2.3769417571467586,21.6
+Animalia,Chordata,Mammalia,Primates,Lorisidae,Nycticebus,coucang,Slow loris,578.0,578.0,188.0,1.0,1.0,1.6830470382388496,2.9496339237992624,25.8
+Animalia,Chordata,Mammalia,Primates,Lorisidae,Nycticebus,pygmaeus,Pygmy slow loris,273.0,273.0,188.0,2.0,1.0,1.3617278360175928,2.622214022966295,19.3
+Animalia,Chordata,Mammalia,Primates,Lorisidae,Perodicticus,potto,Potto,547.0,547.0,170.0,1.0,1.0,1.5831987739686226,2.963740618857884,32.4
+Animalia,Chordata,Mammalia,Primates,Pitheciidae,Plecturocebus,moloch,Dusky titi,912.0,912.0,163.0,1.0,1.0,1.9344984512435677,2.905256048748451,26.2
+Animalia,Chordata,Mammalia,Primates,Tarsiidae,Cephalopachus,bancanus,Western tarsier,920.0,920.0,178.0,1.0,1.5,1.390935107103379,2.0881360887005513,16.3
+Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Elephas,maximus,Asiatic elephant,3287.0,3287.0,644.0,1.0,0.2,5.02938377768521,6.502153892871361,65.5
+Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Loxodonta,africana,African bush elephant,4018.0,3650.0,670.0,1.0,0.2,5.021189299069938,6.681241237375588,65.0
+Animalia,Chordata,Mammalia,Rodentia,Bathyergidae,Cryptomys,damarensis,Damaraland mole-rat,511.0,511.0,93.0,2.5,1.0,0.9542425094393249,2.255272505103306,15.5
+Animalia,Chordata,Mammalia,Rodentia,Bathyergidae,Cryptomys,hottentotus,African mole rat,450.0,450.0,81.0,2.86,1.5,0.9360107957152096,2.1222158782728267,11.0
+Animalia,Chordata,Mammalia,Rodentia,Bathyergidae,Georychus,capensis,Cape mole-rat,304.0,304.0,44.0,5.0,2.0,0.9242792860618817,2.2576785748691846,11.2
+Animalia,Chordata,Mammalia,Rodentia,Bathyergidae,Heterocephalus,glaber,Naked mole-rat,228.0,228.0,70.0,7.0,3.5,0.3010299956639812,1.5440680443502757,31.0
+Animalia,Chordata,Mammalia,Rodentia,Capromyidae,Capromys,pilorides,Desmarest's hutia,304.0,304.0,125.0,2.0,2.0,2.380211241711606,3.670551978446508,13.8
+Animalia,Chordata,Mammalia,Rodentia,Castoridae,Castor,canadensis,American beaver,639.0,639.0,128.0,3.5,1.0,2.6334684555795866,4.306425027550687,23.4
+Animalia,Chordata,Mammalia,Rodentia,Caviidae,Cavia,aperea,Brazilian guinea pig,74.0,77.0,63.0,2.5,5.0,1.775683249026044,2.5327543789924976,6.0
+Animalia,Chordata,Mammalia,Rodentia,Caviidae,Cavia,porcellus,Guinea pig,66.0,76.0,68.0,3.8,5.0,1.9294189257142926,2.862131379313037,12.0
+Animalia,Chordata,Mammalia,Rodentia,Caviidae,Dolichotis,patagonum,Patagonian mara,158.0,183.0,85.0,2.0,3.5,2.749689947134912,4.096910013008056,14.4
+Animalia,Chordata,Mammalia,Rodentia,Caviidae,Galea,musteloides,Common yellow-toothed cavy,66.0,60.0,54.0,2.63,7.0,1.5796692935547203,2.5287881917748964,3.5
+Animalia,Chordata,Mammalia,Rodentia,Caviidae,Galea,spixii,Spix's yellow-toothed cavy,70.0,112.0,53.0,2.5,6.5,1.6020599913279623,2.6532125137753435,4.6
+Animalia,Chordata,Mammalia,Rodentia,Caviidae,Hydrochoerus,hydrochaeris,Capybara,456.0,456.0,150.0,4.8,1.25,3.1760912590556813,4.740362689494244,15.1
+Animalia,Chordata,Mammalia,Rodentia,Caviidae,Kerodon,rupestris,Rock cavy,151.0,151.0,75.0,1.5,5.0,1.8808135922807914,2.9777236052888476,12.9
+Animalia,Chordata,Mammalia,Rodentia,Chinchillidae,Chinchilla,lanigera,Long-tailed chinchilla,240.0,240.0,111.0,2.0,2.0,1.5440680443502757,2.807873132003332,17.2
+Animalia,Chordata,Mammalia,Rodentia,Chinchillidae,Lagostomus,maximus,Plains viscacha,258.0,456.0,154.0,2.0,1.8,2.3010299956639813,3.7781512503836434,10.8
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Arvicola,amphibius,European water vole,51.0,45.0,21.0,5.1,3.2,0.6989700043360189,2.0791812460476247,2.5
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Baiomys,taylori,Northern pygmy mouse,44.0,75.0,20.0,3.0,10.0,0.07918124604762482,0.9030899869919435,3.3
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Cricetus,cricetus,Black-bellied hamster,43.0,56.0,20.0,7.0,2.0,0.8450980400142568,2.704750904290671,3.6
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Dicrostonyx,groenlandicus,Collared lemming,40.0,85.0,20.0,3.4,8.5,0.6384892569546373,1.8195439355418688,3.3
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Lagurus,lagurus,Steppe lemming,38.0,44.0,20.0,4.5,5.0,0.13033376849500614,1.307496037913213,3.8
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Lemmus,lemmus,Norway lemming,24.0,44.0,19.0,7.0,2.5,0.5797835966168101,1.845098040014257,3.3
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Mesocricetus,auratus,Golden hamster,48.0,48.0,16.0,9.0,3.0,0.3891660843645325,2.0211892990699383,3.9
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Microtus,agrestis,Field vole,36.0,42.0,21.0,4.4,3.6,0.36172783601759284,1.662757831681574,4.8
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Microtus,arvalis,Common vole,38.0,56.0,21.0,5.1,5.5,0.26717172840301384,1.4393326938302626,4.8
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Microtus,guentheri,Vole,60.0,95.0,21.0,6.0,3.3,0.47712125471966244,1.7126497016272113,3.9
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Microtus,ochrogaster,Prairie vole,47.0,47.0,23.0,3.8,4.0,0.48000694295715063,1.6020599913279623,5.3
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Microtus,pinetorum,Woodland vole,98.0,98.0,21.0,3.0,2.7,0.3654879848908996,1.4065401804339552,3.8
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Myodes,glareolus,Bank vole,47.0,72.0,20.0,4.3,3.2,0.2600713879850748,1.3180633349627615,4.9
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Neotoma,albigula,White-throated woodrat,84.0,101.0,29.0,2.0,2.0,1.0606978403536116,2.3201462861110542,9.5
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Neotoma,floridana,Eastern woodrat,95.0,95.0,33.0,3.5,2.5,1.1280760126687153,2.4638929889859074,8.6
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Neotoma,lepida,Desert woodrat,76.0,76.0,33.0,3.0,3.0,0.9268567089496923,2.3729120029701067,10.5
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Onychomys,leucogaster,Northern grasshopper mouse,100.0,114.0,31.0,4.0,2.5,0.414973347970818,1.5118833609788744,5.6
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Onychomys,torridus,Southern grasshopper mouse,41.0,41.0,30.0,3.7,2.7,0.414973347970818,1.3424226808222062,4.6
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus,californicus,California mouse,46.0,46.0,30.0,2.0,4.6,0.6493348587121419,1.6232492903979006,5.5
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus,crinitus,Canyon mouse,70.0,70.0,24.0,3.0,2.05,0.3424226808222063,1.2174839442139063,7.7
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus,eremicus,Cactus mouse,129.0,129.0,26.0,2.6,3.5,0.367355921026019,1.3979400086720377,7.4
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus,leucopus,White-footed mouse,73.0,73.0,26.0,4.5,3.7,0.2764618041732441,1.3617278360175928,7.9
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus,maniculatus,Deer mouse,49.0,49.0,24.0,5.0,3.0,0.3010299956639812,1.3117538610557542,8.3
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus,polionotus,Oldfield mouse,28.0,28.0,24.0,3.8,3.0,0.22530928172586284,1.146128035678238,5.5
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus,truei,Pinyon mouse,50.0,50.0,26.0,3.4,5.0,0.36455099535397195,1.3979400086720377,5.4
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Phodopus,sungorus,Dzhungarian hamster,120.0,120.0,20.0,5.5,3.5,0.3010299956639812,1.3692158574101427,3.9
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Sigmodon,hispidus,Hispid cotton rat,40.0,40.0,27.0,5.0,6.7,0.7923916894982539,2.2671717284030137,5.2
+Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Tylomys,nudicaudus,Peters's climbing rat,82.0,109.0,40.0,2.4,6.0,1.2245330626060857,2.4471580313422194,5.4
+Animalia,Chordata,Mammalia,Rodentia,Ctenodactylidae,Ctenodactylus,gundi,Gundi,319.0,319.0,74.0,1.9,1.0,1.4756711883244296,2.4605971888976015,5.8
+Animalia,Chordata,Mammalia,Rodentia,Cuniculidae,Cuniculus,paca,Lowland paca,365.0,365.0,116.0,1.0,1.5,2.832508912706236,3.9542425094393248,16.3
+Animalia,Chordata,Mammalia,Rodentia,Dasyproctidae,Dasyprocta,punctata,Central American agouti,487.0,487.0,112.0,2.0,2.0,2.3560258571931225,3.3324384599156054,13.8
+Animalia,Chordata,Mammalia,Rodentia,Dasyproctidae,Myoprocta,acouchy,Red acouchi,304.0,304.0,99.0,2.0,2.0,2.0,2.88930170250631,14.8
+Animalia,Chordata,Mammalia,Rodentia,Dipodidae,Jaculus,jaculus,Lesser Egyptian jerboa,327.0,137.0,38.0,3.0,1.5,0.3010299956639812,1.7403626894942439,7.3
+Animalia,Chordata,Mammalia,Rodentia,Dipodidae,Zapus,hudsonius,Meadow jumping mouse,61.0,61.0,19.0,5.5,2.1,-0.09691001300805639,1.255272505103306,5.6
+Animalia,Chordata,Mammalia,Rodentia,Echimyidae,Proechimys,semispinosus,Spiny rat,146.0,146.0,64.0,2.4,4.68,1.3617278360175928,2.6989700043360187,5.8
+Animalia,Chordata,Mammalia,Rodentia,Echimyidae,Thrichomys,apereoides,Brazilian spiny rat,178.0,178.0,94.0,3.1,2.5,1.3242824552976926,2.5722906061514177,7.0
+Animalia,Chordata,Mammalia,Rodentia,Erethizontidae,Coendou,prehensilis,Prehensile-tailed porcupine,578.0,578.0,203.0,1.0,1.0,2.61066016308988,3.591064607026499,26.6
+Animalia,Chordata,Mammalia,Rodentia,Erethizontidae,Erethizon,dorsatus,North American porcupine,1095.0,1095.0,210.0,1.0,1.0,2.6989700043360187,3.934498451243568,23.4
+Animalia,Chordata,Mammalia,Rodentia,Geomyidae,Geomys,bursarius,Plains pocket gopher,91.0,91.0,51.0,4.0,1.0,0.7160033436347992,2.247236549506764,12.0
+Animalia,Chordata,Mammalia,Rodentia,Geomyidae,Thomomys,bottae,Botta's pocket gopher,319.0,319.0,19.0,5.5,1.0,0.5185139398778874,2.062581984228163,6.1
+Animalia,Chordata,Mammalia,Rodentia,Gliridae,Glis,glis,Fat dormouse,322.0,335.0,25.0,4.0,1.2,0.17609125905568124,2.0969100130080562,8.7
+Animalia,Chordata,Mammalia,Rodentia,Gliridae,Muscardinus,avellanarius,Hazel dormouse,335.0,335.0,23.0,4.0,1.5,-0.09691001300805639,1.436162647040756,5.3
+Animalia,Chordata,Mammalia,Rodentia,Heteromyidae,Chaetodipus,formosus,Long-tailed pocket mouse,365.0,365.0,28.0,5.0,1.0,0.0,1.2787536009528289,7.1
+Animalia,Chordata,Mammalia,Rodentia,Heteromyidae,Dipodomys,merriami,Merriam's kangaroo rat,102.0,102.0,28.0,2.3,1.6,0.4653828514484183,1.6232492903979006,9.7
+Animalia,Chordata,Mammalia,Rodentia,Heteromyidae,Dipodomys,ordii,Ord's kangaroo rat,61.0,61.0,29.0,3.0,2.0,0.6989700043360189,1.7558748556724915,9.9
+Animalia,Chordata,Mammalia,Rodentia,Heteromyidae,Perognathus,longimembris,Little pocket mouse,151.0,151.0,22.0,5.0,1.25,-0.045757490560675115,0.9030899869919435,8.3
+Animalia,Chordata,Mammalia,Rodentia,Heteromyidae,Perognathus,parvus,Great Basin pocket mouse,100.0,100.0,24.0,4.8,1.6,0.17609125905568124,1.3031960574204888,5.8
+Animalia,Chordata,Mammalia,Rodentia,Hystricidae,Hystrix,africaeaustralis,Cape porcupine,375.0,390.0,94.0,2.1,1.7,2.545307116465824,4.380211241711606,23.1
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Acomys,cahirinus,Spiny mouse,58.0,59.0,38.0,3.0,3.5,0.7218106152125465,1.6551384348113822,5.9
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Apodemus,flavicollis,Yellow-necked mouse,52.0,52.0,26.0,5.5,2.8,0.38021124171160603,1.4683473304121573,4.5
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Apodemus,sylvaticus,Long-tailed field mouse,71.0,65.0,23.0,5.2,3.8,0.17609125905568124,1.3692158574101427,6.3
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Arvicanthis,niloticus,Nile kusu,45.0,45.0,22.0,5.0,3.5,0.6180480967120927,2.041392685158225,6.7
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Chiropodomys,gliroides,Pencil-tailed tree mouse,101.0,101.0,20.0,2.2,3.25,0.4471580313422192,1.462397997898956,3.6
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Gerbilliscus,afra,Cape gerbil,152.0,115.0,23.0,3.9,6.5,0.6532125137753437,1.8739015978644613,5.7
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Gerbillus,pyramidum,Greater Egyptian gerbil,74.0,73.0,21.0,3.3,5.0,0.3979400086720376,1.568201724066995,8.2
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Grammomys,dolichurus,Woodland mouse,73.0,73.0,24.0,3.0,3.25,0.6232492903979004,1.7781512503836436,4.4
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Hydromys,chrysogaster,Golden-bellied water rat,163.0,135.0,36.0,3.8,2.1,1.3872118003137306,2.929418925714293,7.3
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Lemniscomys,striatus,Typical striped grass mouse,168.0,168.0,25.0,4.54,2.0,0.2304489213782739,1.6263403673750423,4.8
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Meriones,crassus,Sundevall's jird,61.0,82.0,22.0,4.0,2.0,0.5250448070368452,1.5440680443502757,5.6
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Meriones,libycus,Libyan jird,91.0,91.0,26.0,5.0,2.5,0.7267272090265723,2.0,5.2
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Meriones,unguiculatus,Mongolian jird,43.0,36.0,25.0,5.0,4.0,0.47712125471966244,1.7259116322950483,6.3
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Mesembriomys,gouldii,Black-footed tree rat,71.0,71.0,44.0,2.0,4.0,1.54282542695918,2.9542425094393248,7.8
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Micromys,minutus,Old World harvest mouse,40.0,37.0,20.0,5.2,2.6,-0.045757490560675115,0.7781512503836436,3.8
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Mus,minutoides,Mouse,60.0,77.0,20.0,4.3,4.0,-0.01322826573375516,0.8573324964312685,4.3
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Mus,musculus,House mouse,42.0,42.0,19.0,7.0,5.4,0.09691001300805642,1.3117538610557542,4.0
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Notomys,alexis,Spinifex hopping mouse,75.0,75.0,35.0,3.9,3.25,0.45178643552429026,1.5440680443502757,6.4
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Praomys,tullbergi,Tullberg's rock rat,82.0,75.0,24.0,3.5,4.0,0.43136376415898736,1.4771212547196624,5.2
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Psammomys,obesus,Fat sand rat,100.0,100.0,24.0,3.5,3.25,0.7958800173440752,2.326335860928751,3.2
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Pseudomys,australis,Australian native mouse,145.0,180.0,31.0,3.1,1.5,0.6020599913279624,1.8129133566428555,7.9
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Rattus,fuscipes,Bush rat,107.0,90.0,26.0,5.0,3.3,0.6532125137753437,2.113943352306837,5.3
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Rattus,lutreolus,Australian swamp rat,79.0,79.0,27.0,5.0,2.53,0.6875289612146344,2.060697840353612,4.4
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Rattus,norvegicus,Norway rat,90.0,70.0,21.0,9.9,3.7,0.7641761323903307,2.4771212547196626,3.8
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Rattus,rattus,Rat,90.0,112.0,22.0,7.3,4.3,0.6580113966571124,2.3010299956639813,4.2
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Rhabdomys,pumilio,Four-striped grass mouse,42.0,64.0,25.0,6.0,4.0,0.42651126136457523,1.7075701760979363,4.5
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Rhombomys,opimus,Great gerbil,105.0,105.0,28.0,5.0,2.5,0.6766936096248666,2.45484486000851,4.5
+Animalia,Chordata,Mammalia,Rodentia,Muridae,Tatera,indica,Indian gerbil,77.0,91.0,26.0,5.4,4.2,0.47712125471966244,2.1664301138432824,7.0
+Animalia,Chordata,Mammalia,Rodentia,Myocastoridae,Myocastor,coypus,Nutria,152.0,152.0,131.0,6.0,2.3,2.3521825181113627,3.8948696567452528,8.5
+Animalia,Chordata,Mammalia,Rodentia,Nesomyidae,Cricetomys,gambianus,Gambian rat,158.0,158.0,34.0,3.5,3.75,1.4099331233312946,3.1760912590556813,8.4
+Animalia,Chordata,Mammalia,Rodentia,Nesomyidae,Mystromys,albicaudatus,White-tailed mouse,109.0,109.0,38.0,3.0,3.75,0.8129133566428556,2.0253058652647704,6.3
+Animalia,Chordata,Mammalia,Rodentia,Nesomyidae,Saccostomus,campestris,Pouched mouse,45.0,45.0,21.0,6.8,3.75,0.414973347970818,1.675778341674085,4.5
+Animalia,Chordata,Mammalia,Rodentia,Octodontidae,Octodon,degus,Degu,182.0,182.0,90.0,6.0,1.8,1.146128035678238,2.3710678622717363,14.0
+Animalia,Chordata,Mammalia,Rodentia,Pedetidae,Pedetes,capensis,Springhare,1034.0,1034.0,80.0,1.0,3.6,2.439332693830263,3.5440680443502757,20.0
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Ammospermophilus,harrisii,Harris's antelope squirrel,319.0,319.0,30.0,6.8,1.0,0.5797835966168101,2.100370545117563,10.6
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Ammospermophilus,leucurus,White-tailed antelope squirrel,365.0,365.0,29.0,8.0,1.3,0.5065050324048721,2.0211892990699383,11.2
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Callospermophilus,lateralis,Golden-mantled ground squirrel,637.0,637.0,30.0,5.12,0.94,0.7965743332104297,2.1975562131535367,10.4
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Cynomys,ludovicianus,Black-tailed prairie dog,730.0,730.0,30.0,4.0,1.0,1.1972805581256194,3.0511525224473814,11.0
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Glaucomys,sabrinus,Northern flying squirrel,210.0,210.0,40.0,3.0,1.0,0.7403626894942439,2.173186268412274,14.2
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Glaucomys,volans,Southern flying squirrel,210.0,210.0,40.0,4.0,1.3,0.5250448070368452,1.8155777483242672,19.0
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Ictidomys,tridecemlineatus,Thirteen-lined ground squirrel,354.0,225.0,28.0,7.0,1.2,0.5105450102066121,2.237292337567459,7.9
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Marmota,flaviventris,Yellow-bellied marmot,730.0,730.0,30.0,4.0,0.9,1.5289167002776547,3.5440680443502757,21.2
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Marmota,marmota,Alpine marmot,730.0,730.0,35.0,4.0,1.0,1.4771212547196624,3.5440680443502757,17.4
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Marmota,monax,Woodchuck,548.0,548.0,32.0,4.5,1.0,1.4313637641589874,3.6020599913279625,14.0
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Poliocitellus,franklinii,Franklin's ground squirrel,327.0,327.0,28.0,7.5,1.0,0.9542425094393249,2.661812685537261,7.2
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Ratufa,bicolor,Black giant squirrel,1078.0,1078.0,32.0,1.4,2.0,1.8864907251724818,3.3010299956639813,19.0
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Sciurus,carolinensis,Eastern gray squirrel,343.0,401.0,44.0,4.0,2.0,1.1760912590556813,2.7267272090265724,23.6
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Sciurus,niger,Eastern fox squirrel,353.0,353.0,44.0,3.0,1.0,1.1760912590556813,2.9030899869919438,16.0
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Sciurus,vulgaris,Eurasian red squirrel,296.0,320.0,38.0,5.0,2.0,0.9661417327390326,2.7781512503836434,14.8
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Tamias,minimus,Least chipmunk,365.0,365.0,30.0,4.9,1.0,0.36172783601759284,1.6444385894678386,10.0
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Tamias,sibiricus,Siberian chipmunk,350.0,350.0,35.0,4.8,1.1,0.6020599913279624,1.9294189257142926,9.6
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Tamias,striatus,Eastern chipmunk,187.0,228.0,31.0,5.0,1.5,0.5314789170422551,1.9822712330395684,9.5
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Tamias,townsendii,Townsend's chipmunk,353.0,353.0,28.0,4.5,1.0,0.5440680443502757,1.8750612633917,9.3
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Tamiasciurus,hudsonicus,Red squirrel,342.0,342.0,37.0,4.2,1.7,0.8450980400142568,2.3010299956639813,9.8
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Xerospermophilus,tereticaudus,Round-tailed ground squirrel,325.0,325.0,28.0,5.4,1.0,0.5910646070264992,2.212986184736668,8.9
+Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Xerus,inauris,South African ground squirrel,365.0,365.0,45.0,2.2,1.0,1.3010299956639813,2.7693773260761385,11.5
+Animalia,Chordata,Mammalia,Rodentia,Thryonomyidae,Thryonomys,swinderianus,Greater cane rat,365.0,365.0,155.0,4.0,2.3,2.110589710299249,3.8195439355418688,5.4
+Animalia,Chordata,Mammalia,Scandentia,Tupaiidae,Tupaia,glis,Common tree shrew,90.0,90.0,46.0,2.0,2.5,1.1119342763326816,2.3010299956639813,12.4
+Animalia,Chordata,Mammalia,Sirenia,Dugongidae,Dugong,dugon,Dugong,3470.0,3470.0,374.0,1.0,0.2,4.439332693830263,5.556302500767287,73.0
+Animalia,Chordata,Mammalia,Sirenia,Trichechidae,Trichechus,inunguis,Amazonian manatee,1096.0,1096.0,328.0,1.0,0.5,4.096910013008056,5.681241237375588,40.0
+Animalia,Chordata,Mammalia,Sirenia,Trichechidae,Trichechus,manatus,West Indian manatee,1278.0,913.0,335.0,1.0,0.4,4.505149978319906,5.507855871695831,69.0
+Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Blarina,brevicauda,Northern short-tailed shrew,46.0,65.0,17.0,6.0,3.0,0.12710479836480765,1.334453751150931,2.2
+Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Crocidura,leucodon,Bicolored shrew,95.0,95.0,30.0,5.0,3.5,-0.030118356253500032,1.0413926851582251,2.9
+Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Crocidura,russula,White-toothed shrew,75.0,75.0,29.0,4.0,3.5,-0.024568191490737076,1.0644579892269184,4.0
+Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Crocidura,suaveolens,Lesser shrew,175.0,365.0,27.0,4.0,3.5,-0.27572413039921095,0.8864907251724818,2.8
+Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Cryptotis,parva,Least shrew,40.0,43.0,21.0,4.5,2.5,-0.46852108295774486,0.6532125137753437,3.5
+Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Neomys,fodiens,Eurasian water shrew,106.0,106.0,20.0,5.0,1.8,-0.10790539730951958,1.1760912590556813,3.1
+Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Sorex,araneus,Eurasian shrew,198.0,335.0,21.0,6.0,1.9,-0.3565473235138126,0.9542425094393249,3.2
+Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Suncus,etruscus,White-toothed pygmy shrew,365.0,365.0,27.0,4.0,3.4,-0.721246399047171,0.3222192947339193,3.2
+Animalia,Chordata,Mammalia,Soricomorpha,Soricidae,Suncus,murinus,Asian house shrew,36.0,36.0,30.0,3.0,9.8,0.42813479402878885,1.6618126855372612,3.2
+Animalia,Chordata,Mammalia,Soricomorpha,Talpidae,Condylura,cristata,Star-nosed mole,304.0,304.0,40.0,4.4,1.0,0.17609125905568124,1.7427251313046983,2.5
+Animalia,Chordata,Mammalia,Tubulidentata,Orycteropodidae,Orycteropus,afer,Aardvark,730.0,730.0,225.0,1.0,1.0,3.255272505103306,4.778151250383644,29.8
