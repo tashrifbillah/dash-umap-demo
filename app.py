@@ -32,7 +32,7 @@ app.layout= html.Div(
             style={'width':'700px'}
         ),
 
-        ' ',
+        html.Br(),
 
         'min_dist: ',
         dcc.Input(
@@ -40,6 +40,7 @@ app.layout= html.Div(
             debounce=True, min=0, max=0.99, step=0.1,
         ),
 
+        dcc.Loading(id='UMAP plot', fullscreen= False, type='graph'),
         html.Br(),
         dcc.Graph(id='umap-plot'),
     ],
@@ -47,7 +48,8 @@ app.layout= html.Div(
 )
 
 
-@app.callback(Output('umap-plot', 'figure'),
+@app.callback([Output('umap-plot', 'figure'),
+               Output('UMAP plot', 'children')],
               [Input('neighbors', 'value'),
                Input('min_dist', 'value')])
 def umap_plot(n_neighbors, min_dist):
@@ -108,7 +110,7 @@ def umap_plot(n_neighbors, min_dist):
         )
     })
 
-    return fig
+    return fig,True
 
 
 if __name__=='__main__':
