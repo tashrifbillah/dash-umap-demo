@@ -36,7 +36,7 @@ app.layout= html.Div(
         'min_dist: ',
         dcc.Input(
             id="min_dist", type="number", value=0.1,
-            debounce=True, min=0, max=0.99, step=0.1,
+            min=0, max=0.99, step=0.1,
         ),
 
         dcc.Loading(id='UMAP plot', fullscreen= False, type='graph'),
@@ -53,27 +53,31 @@ app.layout= html.Div(
                Input('min_dist', 'value')])
 def umap_plot(n_neighbors, min_dist):
 
-    n_neighbors= int(n_neighbors) if n_neighbors else 2
-    min_dist= float(min_dist) if min_dist else 0.1
+    try:
+        n_neighbors= int(n_neighbors)
+    except:
+        n_neighbors= 2
 
-    # load data
+    try:
+        min_dist= float(min_dist)
+    except:
+        min_dist= 0.1
+
+    ## load data ##
     data = pd.read_csv('data/anage_data_subset.csv')
 
-    # process data
-    # string properties
+    ## process data ##
     names = data.values[:, 0:8]
-    # number properties
     props = data.values[:, 8:16].astype(float)
-    # standardize
     props = zscore(props, ddof=1)
 
-    # perform UMAP
+    ## perform UMAP ##
     P = umap.UMAP(n_neighbors=n_neighbors, min_dist=min_dist).fit_transform(props)
 
+    ## define data to plot ##
     groups= data.groupby(['Class']).groups
     palette=['red','blue']
     plotdata= []
-
     for i,fclass in enumerate(groups.keys()):
         ind=groups.get(fclass)
         plotdata.append(
@@ -91,7 +95,7 @@ def umap_plot(n_neighbors, min_dist):
             )
         )
 
-    # render plot
+    ## set plot properties ##
     fig = go.Figure({
         'data': plotdata,
         'layout': dict(
