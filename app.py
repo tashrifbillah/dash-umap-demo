@@ -18,6 +18,11 @@ app.layout= html.Div(
     children= [
 
         html.H3('UMAP Visualization'),
+        dcc.Link('Source code', href='https://github.com/tashrifbillah/dash-umap-demo',
+                 target='blank'),
+        html.Br(),
+        dcc.Link('UMAP basics', href='https://umap-learn.readthedocs.io/en/latest/parameters.html',
+                 target='blank'),
         html.Hr(),
         html.Br(),
 
